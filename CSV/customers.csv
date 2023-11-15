@@ -1,0 +1,313 @@
+customer_id,first_name,last_name,phone,address,membership_status,country,user_id
+1,John,Smith,123-456-7890,"123 Main St, London, UK",Premium,UK,1
+2,Alice,Johnson,234-567-8901,"456 Elm St, Paris, France",Premium,France,2
+3,Michael,Miller,345-678-9012,"789 Oak St, Berlin, Germany",Standard,Germany,3
+4,Sophia,Brown,456-789-0123,"101 Maple St, Madrid, Spain",VIP,Spain,4
+5,David,Lee,567-890-1234,"202 Pine St, Rome, Italy",Premium,Italy,5
+6,Olivia,Wilson,678-901-2345,"303 Cedar St, Amsterdam, Netherlands",Premium,Netherlands,6
+7,Daniel,Garcia,789-012-3456,"404 Birch St, Brussels, Belgium",VIP,Belgium,7
+8,Emily,Lopez,890-123-4567,"505 Redwood St, Vienna, Austria",Premium,Austria,8
+9,James,Martinez,901-234-5678,"606 Oakwood St, Athens, Greece",VIP,Greece,9
+10,Ava,Harris,123-234-5678,"707 Willow St, Dublin, Ireland",Premium,Ireland,10
+11,William,Smith,234-345-6789,"808 Cedarwood St, Lisbon, Portugal",Premium,Portugal,11
+12,Mia,Johnson,345-456-7890,"909 Spruce St, Warsaw, Poland",Premium,Poland,12
+13,Benjamin,Brown,456-567-8901,"1010 Maplewood St, Budapest, Hungary",VIP,Hungary,13
+14,Charlotte,Davis,567-678-9012,"1111 Elmwood St, Vienna, Austria",Premium,Austria,14
+15,Michael,Lee,123-456-7890,"1212 Oakridge St, Prague, Czech Republic",Premium,"Czech Republic",15
+16,Sophia,Garcia,234-567-8901,"1313 Willowridge St, Sofia, Bulgaria",Premium,Bulgaria,16
+17,Daniel,Martinez,345-678-9012,"1414 Redmaple St, Bucharest, Romania",VIP,Romania,17
+18,Olivia,Rodriguez,456-789-0123,"1515 Birchwood St, Riga, Latvia",VIP,Latvia,18
+19,Lucas,Lopez,567-890-1234,"1616 Cedarhill St, Tallinn, Estonia",VIP,Estonia,19
+20,Ella,Hernandez,678-901-2345,"1717 Pineville St, Vilnius, Lithuania",Premium,Lithuania,20
+21,Liam,Flores,789-012-3456,"1818 Oakhurst St, Kiev, Ukraine",VIP,Ukraine,21
+22,Ava,King,890-123-4567,"1919 Willowside St, Belgrade, Serbia",VIP,Serbia,22
+23,James,Morgan,123-234-5678,"2020 Redhill St, Skopje, North Macedonia",Premium,"North Macedonia",23
+24,Olivia,Collins,234-345-6789,"2121 Elmfield St, Sarajevo, Bosnia and Herzegovina",VIP,"Bosnia and Herzegovina",24
+25,Sophia,Sanchez,345-456-7890,"2222 Oakwoodridge St, Zagreb, Croatia",VIP,Croatia,25
+26,Elijah,Gonzalez,456-567-8901,"2323 Cedarwoodville St, Ljubljana, Slovenia",VIP,Slovenia,26
+27,Emily,Rodriguez,567-678-9012,"2424 Mapleridge St, Podgorica, Montenegro",VIP,Montenegro,27
+28,Benjamin,Torres,123-789-0123,"2525 Elmwoodridge St, Pristina, Kosovo",Standard,Kosovo,28
+29,Mia,Rivera,234-901-2345,"2626 Oakridgefield St, Tbilisi, Georgia",Standard,Georgia,29
+30,William,Adams,345-012-3456,"2727 Oakside St, Yerevan, Armenia",Premium,Armenia,30
+31,Harper,Wright,567-123-5678,"2828 Cedarfield St, Baku, Azerbaijan",VIP,Azerbaijan,31
+32,Liam,Ward,678-234-7890,"2929 Pinevillefield St, Minsk, Belarus",VIP,Belarus,32
+33,Evelyn,Perez,789-345-0123,"3030 Maplewoodridge St, Moscow, Russia",Premium,Russia,33
+34,Sophia,Hernandez,123-456-2345,"3131 Elmfieldville St, Kiev, Ukraine",VIP,Ukraine,34
+35,Liam,Perez,234-567-3456,"3232 Oakwoodfield St, Warsaw, Poland",VIP,Poland,35
+36,Amelia,Martinez,345-678-4567,"3333 Cedarwoodridge St, Prague, Czech Republic",VIP,"Czech Republic",36
+37,Olivia,Adams,456-789-5678,"3434 Cedarhillfield St, Sofia, Bulgaria",Premium,Bulgaria,37
+38,Lucas,Gonzalez,567-901-6789,"3535 Mapleridgeville St, Bucharest, Romania",Standard,Romania,38
+39,Charlotte,Collins,678-012-7890,"3636 Elmwoodville St, Riga, Latvia",VIP,Latvia,39
+40,Benjamin,Torres,789-123-0123,"3737 Oakridgefield St, Tallinn, Estonia",Standard,Estonia,40
+41,Ella,King,123-234-1234,"3838 Cedarhillfield St, Vilnius, Lithuania",VIP,Lithuania,41
+42,William,Ward,234-345-2345,"3939 Maplewoodvillefield St, Kiev, Ukraine",Premium,Ukraine,42
+43,Evelyn,Wright,345-456-3456,"4040 Elmfieldfield St, Belgrade, Serbia",VIP,Serbia,43
+44,Harper,Perez,456-567-4567,"4141 Oakwoodridgeville St, Skopje, North Macedonia",VIP,"North Macedonia",44
+45,John,Smith,123-456-7890,"123 Main St, Stockholm, Sweden",Premium,Sweden,45
+46,Alice,Johnson,234-567-8901,"456 Elm St, Oslo, Norway",VIP,Norway,46
+47,Michael,Miller,345-678-9012,"789 Oak St, Helsinki, Finland",VIP,Finland,47
+48,Sophia,Brown,456-789-0123,"101 Maple St, Copenhagen, Denmark",VIP,Denmark,48
+49,David,Lee,567-890-1234,"202 Pine St, Reykjavik, Iceland",Premium,Iceland,49
+50,Olivia,Wilson,678-901-2345,"303 Cedar St, Dublin, Ireland",Standard,Ireland,50
+51,Daniel,Garcia,789-012-3456,"404 Birch St, Brussels, Belgium",VIP,Belgium,51
+52,Emily,Lopez,890-123-4567,"505 Redwood St, Amsterdam, Netherlands",Premium,Netherlands,52
+53,James,Martinez,901-234-5678,"606 Oakwood St, Oslo, Norway",VIP,Norway,53
+54,Ava,Harris,123-234-5678,"707 Willow St, Reykjavik, Iceland",Standard,Iceland,54
+55,William,Smith,234-345-6789,"808 Cedarwood St, Stockholm, Sweden",VIP,Sweden,55
+56,Mia,Johnson,345-456-7890,"909 Spruce St, Helsinki, Finland",VIP,Finland,56
+57,Benjamin,Brown,456-567-8901,"1010 Maplewood St, Copenhagen, Denmark",VIP,Denmark,57
+58,Charlotte,Davis,567-678-9012,"1111 Elmwood St, Brussels, Belgium",Premium,Belgium,58
+59,Michael,Lee,123-456-7890,"1212 Oakridge St, Dublin, Ireland",VIP,Ireland,59
+60,Sophia,Garcia,234-567-8901,"1313 Willowridge St, Amsterdam, Netherlands",Premium,Netherlands,60
+61,Daniel,Martinez,345-678-9012,"1414 Redmaple St, Oslo, Norway",Premium,Norway,61
+62,Ella,Smith,456-789-0123,"1515 Birchwood St, Helsinki, Finland",VIP,Finland,62
+63,Ethan,Johnson,567-890-1234,"1616 Cedarhill St, Copenhagen, Denmark",VIP,Denmark,63
+64,Avery,Brown,678-901-2345,"1717 Pineville St, Brussels, Belgium",VIP,Belgium,64
+65,Lucas,Lopez,789-012-3456,"1818 Oakhurst St, Amsterdam, Netherlands",Premium,Netherlands,65
+66,Madison,Davis,890-123-4567,"1919 Willowside St, Dublin, Ireland",VIP,Ireland,66
+67,Noah,Lee,123-234-5678,"2020 Redhill St, Stockholm, Sweden",Premium,Sweden,67
+68,Olivia,Williams,234-345-6789,"2121 Elmfield St, Helsinki, Finland",Standard,Finland,68
+69,Isabella,Smith,345-456-7890,"2222 Oakwoodridge St, Copenhagen, Denmark",VIP,Denmark,69
+70,Lorenzo,Ferrari,123-456-7890,"123 Olive St, Rome, Italy",VIP,Italy,70
+71,Alessia,Ricci,234-567-8901,"456 Vine St, Barcelona, Spain",Premium,Spain,71
+72,Giorgio,Rizzo,345-678-9012,"789 Fig St, Athens, Greece",Premium,Greece,72
+73,Elena,Santoro,456-789-0123,"101 Lemon St, Marseille, France",Premium,France,73
+74,Antonio,Moreno,567-890-1234,"202 Olive St, Valencia, Spain",Premium,Spain,74
+75,Maria,Silva,678-901-2345,"303 Vine St, Athens, Greece",VIP,Greece,75
+76,Cristina,Ramos,789-012-3456,"404 Fig St, Rome, Italy",Premium,Italy,76
+77,Luciano,Serra,890-123-4567,"505 Lemon St, Barcelona, Spain",VIP,Spain,77
+78,Aurora,Molina,901-234-5678,"606 Olive St, Athens, Greece",VIP,Greece,78
+79,Vincenzo,Ricci,123-234-5678,"707 Vine St, Marseille, France",VIP,France,79
+80,Gabriella,Conti,234-345-6789,"808 Fig St, Rome, Italy",VIP,Italy,80
+81,Matteo,Gallo,345-456-7890,"909 Lemon St, Valencia, Spain",Premium,Spain,81
+82,Sara,Ferrara,456-567-8901,"1010 Olive St, Marseille, France",VIP,France,82
+83,Riccardo,Rossi,567-678-9012,"1111 Vine St, Barcelona, Spain",Standard,Spain,83
+84,Giulia,Sorrento,678-789-0123,"1212 Fig St, Rome, Italy",Premium,Italy,84
+85,Andrea,Moretti,789-890-1234,"1313 Lemon St, Athens, Greece",VIP,Greece,85
+86,Luna,Perez,890-901-2345,"1414 Olive St, Valencia, Spain",Premium,Spain,86
+87,Davide,Greco,901-012-3456,"1515 Vine St, Marseille, France",VIP,France,87
+88,Bianca,Milani,123-123-4567,"1616 Fig St, Rome, Italy",VIP,Italy,88
+89,Alessio,Martini,234-234-5678,"1717 Lemon St, Barcelona, Spain",VIP,Spain,89
+90,Chiara,Coppola,345-345-7890,"1818 Olive St, Athens, Greece",Standard,Greece,90
+91,Diego,Rossini,456-456-0123,"1919 Vine St, Rome, Italy",VIP,Italy,91
+92,Eva,Lombardi,567-567-2345,"2020 Fig St, Valencia, Spain",Standard,Spain,92
+93,Filippo,Mariani,678-678-4567,"202 Olive St, Marseille, France",Premium,France,93
+94,Gaia,Colombo,123-234-5678,"222 Vine St, Rome, Italy",VIP,Italy,94
+95,Siyabonga,Dlamini,123-456-7890,"123 Durban St, Durban, South Africa",VIP,"South Africa",95
+96,Lerato,Molefe,234-567-8901,"456 Johannesburg St, Johannesburg, South Africa",VIP,"South Africa",96
+97,Thabo,Ngwenya,345-678-9012,"789 Pretoria St, Pretoria, South Africa",Premium,"South Africa",97
+98,Nomthandazo,Khumalo,456-789-0123,"101 Bloemfontein St, Bloemfontein, South Africa",VIP,"South Africa",98
+99,Andile,Mkhize,567-890-1234,"202 Pietermaritzburg St, Pietermaritzburg, South Africa",VIP,"South Africa",99
+102,Sipho,Nkosi,890-123-4567,"505 Port Elizabeth St, Port Elizabeth, South Africa",VIP,"South Africa",102
+103,Lindiwe,Sibanda,901-234-5678,"606 Polokwane St, Polokwane, South Africa",VIP,"South Africa",103
+104,Bongani,Maseko,123-234-5678,"707 Nelspruit St, Nelspruit, South Africa",Premium,"South Africa",104
+105,Sanele,Mhlongo,234-345-6789,"808 Upington St, Upington, South Africa",VIP,"South Africa",105
+106,Thandeka,Ngcobo,345-456-7890,"909 George St, George, South Africa",VIP,"South Africa",106
+107,Musa,Khoza,456-567-8901,"1010 Queenstown St, Queenstown, South Africa",VIP,"South Africa",107
+108,Lwazi,Pretorius,567-678-9012,"1111 Grahamstown St, Grahamstown, South Africa",Premium,"South Africa",108
+109,Nolwazi,Mazibuko,678-789-0123,"1212 Mafikeng St, Mafikeng, South Africa",VIP,"South Africa",109
+110,Zinhle,Naidoo,789-890-1234,"1313 Ladysmith St, Ladysmith, South Africa",Standard,"South Africa",110
+111,Jabulani,Moloi,890-901-2345,"1414 Bethlehem St, Bethlehem, South Africa",Premium,"South Africa",111
+112,Sibongile,Mkhize,901-012-3456,"1515 Sasolburg St, Sasolburg, South Africa",Premium,"South Africa",112
+113,Nkosinathi,Sibiya,123-123-4567,"1616 Uitenhage St, Uitenhage, South Africa",Premium,"South Africa",113
+114,Thandiwe,Majozi,234-234-5678,"1717 Kimberley St, Krugersdorp, South Africa",Premium,"South Africa",114
+115,Themba,Buthelezi,345-345-7890,"1818 Polokwane St, Roodepoort, South Africa",Premium,"South Africa",115
+116,Buhle,Zondo,456-456-9012,"1919 Pretoria St, Soweto, South Africa",Premium,"South Africa",116
+117,Lungelo,Mthembu,567-567-0123,"2020 Durban St, Tembisa, South Africa",VIP,"South Africa",117
+118,Sithembiso,Nkosi,678-678-1234,"2121 Pietermaritzburg St, Port Elizabeth, South Africa",Premium,"South Africa",118
+119,John,Smith,123-456-7890,"123 Main St, New York, USA",VIP,USA,119
+120,Mary,Johnson,234-567-8901,"456 Elm St, Los Angeles, USA",Premium,USA,120
+121,David,Brown,345-678-9012,"789 Oak St, Chicago, USA",VIP,USA,121
+122,Sarah,Williams,456-789-0123,"101 Maple St, Houston, USA",Premium,USA,122
+123,James,Jones,567-890-1234,"202 Pine St, Miami, USA",Premium,USA,123
+124,Jennifer,Davis,678-901-2345,"303 Cedar St, San Francisco, USA",Standard,USA,124
+125,Michael,Wilson,789-012-3456,"404 Birch St, Seattle, USA",VIP,USA,125
+126,Linda,Moore,890-123-4567,"505 Redwood St, Boston, USA",VIP,USA,126
+127,William,Taylor,901-234-5678,"606 Oakwood St, Atlanta, USA",VIP,USA,127
+128,Patricia,Anderson,123-234-5678,"707 Willow St, Philadelphia, USA",Premium,USA,128
+129,Robert,Thomas,234-345-6789,"808 Cedarwood St, Phoenix, USA",VIP,USA,129
+130,Elizabeth,Jackson,345-456-7890,"909 Spruce St, Denver, USA",Premium,USA,130
+131,Charles,Harris,456-567-8901,"1010 Maplewood St, Dallas, USA",Standard,USA,131
+132,Karen,White,567-678-9012,"1111 Elmwood St, Minneapolis, USA",Standard,USA,132
+133,Joseph,Martin,678-789-0123,"1212 Oakridge St, Las Vegas, USA",Premium,USA,133
+134,Emma,Johnson,123-123-2345,"123 Toronto St, Toronto, Canada",VIP,Canada,134
+135,William,Smith,234-234-3456,"456 Vancouver St, Vancouver, Canada",Premium,Canada,135
+136,Olivia,Brown,345-345-4567,"789 Montreal St, Montreal, Canada",VIP,Canada,136
+137,James,Wilson,456-456-5678,"101 Quebec St, Quebec City, Canada",Premium,Canada,137
+138,Ava,Lee,567-567-6789,"202 Ottawa St, Ottawa, Canada",Premium,Canada,138
+139,Lucas,Moore,678-678-7890,"303 Edmonton St, Edmonton, Canada",Premium,Canada,139
+140,Isabella,Larsen,123-123-1234,"123 Nuuk St, Nuuk, Greenland",VIP,Greenland,140
+141,Emil,Olsen,234-234-2345,"456 Sisimiut St, Sisimiut, Greenland",Premium,Greenland,141
+142,Sophia,Pedersen,345-345-3456,"789 Ilulissat St, Ilulissat, Greenland",Premium,Greenland,142
+143,Yuki,Tanaka,123-456-7890,"123 Tokyo St, Tokyo, Japan",Premium,Japan,143
+144,Seung,Kim,234-567-8901,"456 Seoul St, Seoul, South Korea",Premium,"South Korea",144
+145,Viktor,Ivanov,345-678-9012,"789 Moscow St, Moscow, Russia",VIP,Russia,145
+146,Zhang,Li,456-789-0123,"101 Beijing St, Beijing, China",VIP,China,146
+147,Nadia,Ionescu,567-890-1234,"202 Bucharest St, Bucharest, Romania",Premium,Romania,147
+148,Pavel,Novak,678-901-2345,"303 Prague St, Prague, Czech Republic",Standard,"Czech Republic",148
+149,Andriy,Kovalenko,789-012-3456,"404 Kiev St, Kiev, Ukraine",Standard,Ukraine,149
+150,Svetlana,Popova,890-123-4567,"505 Moscow St, Moscow, Russia",VIP,Russia,150
+151,Mihai,Constantin,901-234-5678,"606 Bucharest St, Bucharest, Romania",Premium,Romania,151
+152,Kenzo,Sato,123-234-5678,"707 Tokyo St, Tokyo, Japan",Premium,Japan,152
+153,Elena,Petrova,234-345-6789,"808 Moscow St, Moscow, Russia",Premium,Russia,153
+154,Petr,Jelinek,345-456-7890,"909 Prague St, Prague, Czech Republic",Premium,"Czech Republic",154
+155,Ioana,Dumitrescu,456-567-8901,"1010 Bucharest St, Bucharest, Romania",VIP,Romania,155
+156,Hiroshi,Yamada,567-678-9012,"1111 Tokyo St, Tokyo, Japan",VIP,Japan,156
+157,Nina,Kowalczyk,678-789-0123,"1212 Warsaw St, Warsaw, Poland",VIP,Poland,157
+158,Kwame,Osei,123-456-7890,"123 Accra St, Accra, Ghana",VIP,Ghana,158
+159,Amina,Ndiaye,234-567-8901,"456 Dakar St, Dakar, Senegal",Premium,Senegal,159
+160,Rashid,Moussa,345-678-9012,"789 Cairo St, Cairo, Egypt",VIP,Egypt,160
+161,Fatima,Kamara,456-789-0123,"101 Freetown St, Freetown, Sierra Leone",Premium,"Sierra Leone",161
+162,Sekou,Traoré,567-890-1234,"202 Bamako St, Bamako, Mali",Premium,Mali,162
+163,Chidinma,Okoro,678-901-2345,"303 Lagos St, Lagos, Nigeria",Premium,Nigeria,163
+164,Kwasi,Abdul,789-012-3456,"404 Accra St, Accra, Ghana",Premium,Ghana,164
+165,Nadia,Mokhtari,890-123-4567,"505 Algiers St, Algiers, Algeria",Premium,Algeria,165
+166,Lunga,Sibiya,901-234-5678,"606 Durban St, Durban, South Africa",VIP,"South Africa",166
+167,Fatu,Sankoh,123-234-5678,"707 Freetown St, Freetown, Sierra Leone",Premium,"Sierra Leone",167
+168,Salem,Hassan,234-345-6789,"808 Cairo St, Cairo, Egypt",Premium,Egypt,168
+169,Ebele,Okonkwo,345-456-7890,"909 Lagos St, Lagos, Nigeria",Premium,Nigeria,169
+170,Malik,Fofana,456-567-8901,"1010 Bamako St, Bamako, Mali",VIP,Mali,170
+171,Mireille,Diop,567-678-9012,"1111 Dakar St, Dakar, Senegal",VIP,Senegal,171
+172,Kwabena,Ankrah,678-789-0123,"1212 Accra St, Accra, Ghana",Standard,Ghana,172
+173,Wei,Chen,123-456-7890,"123 Beijing Rd, Beijing, China",VIP,China,173
+174,Yuki,Sato,234-567-8901,"456 Tokyo St, Tokyo, Japan",Premium,Japan,174
+175,Maria,Santos,345-678-9012,"789 Manila St, Manila, Philippines",VIP,Philippines,175
+176,Liam,Smith,456-789-0123,"101 Sydney St, Sydney, Australia",VIP,Australia,176
+177,Ella,Wilson,567-890-1234,"202 Auckland St, Auckland, New Zealand",VIP,"New Zealand",177
+178,Minh,Nguyen,678-901-2345,"303 Hanoi St, Hanoi, Vietnam",VIP,Vietnam,178
+179,Xia,Wang,789-012-3456,"404 Shanghai Rd, Shanghai, China",VIP,China,179
+180,Hiroshi,Yamamoto,890-123-4567,"505 Osaka St, Osaka, Japan",VIP,Japan,180
+181,Juan,Lopez,901-234-5678,"606 Manila St, Manila, Philippines",VIP,Philippines,181
+182,Olivia,Johnson,123-234-5678,"707 Melbourne St, Melbourne, Australia",VIP,Australia,182
+183,Jacob,Brown,234-345-6789,"808 Auckland St, Auckland, New Zealand",Standard,"New Zealand",183
+184,Mai,Tran,345-456-7890,"909 Ho Chi Minh St, Ho Chi Minh City, Vietnam",VIP,Vietnam,184
+185,Yun,Li,456-567-8901,"1010 Guangzhou Rd, Guangzhou, China",VIP,China,185
+186,Makoto,Suzuki,567-678-9012,"1111 Kyoto St, Kyoto, Japan",VIP,Japan,186
+187,Luis,Garcia,678-789-0123,"1212 Cebu City St, Cebu City, Philippines",VIP,Philippines,187
+188,Sophie,Martin,789-901-2345,"1313 Sydney St, Sydney, Australia",VIP,Australia,188
+189,Riley,Thompson,890-123-4567,"1414 Wellington St, Wellington, New Zealand",Premium,"New Zealand",189
+190,Phong,Nguyen,123-234-5678,"1515 Hanoi St, Hanoi, Vietnam",Premium,Vietnam,190
+191,Mei,Liu,234-345-6789,"1616 Shanghai Rd, Shanghai, China",VIP,China,191
+192,Hana,Kato,345-456-7890,"1717 Tokyo St, Tokyo, Japan",VIP,Japan,192
+193,Jose,Martinez,456-567-8901,"1818 Manila St, Manila, Philippines",Standard,Philippines,193
+194,Lucy,Wilson,567-678-9012,"1919 Sydney St, Sydney, Australia",VIP,Australia,194
+195,Jack,Davis,678-789-0123,"2020 Auckland St, Auckland, New Zealand",Premium,"New Zealand",195
+196,Quoc,Pham,123-234-5678,"2121 Hanoi St, Hanoi, Vietnam",Premium,Vietnam,196
+197,Ahmed,Ali,123-456-7890,"123 Riyadh St, Riyadh, Saudi Arabia",VIP,"Saudi Arabia",197
+198,Layla,Khalid,234-567-8901,"456 Dubai St, Dubai, United Arab Emirates",Premium,"United Arab Emirates",198
+199,Kareem,Abbas,345-678-9012,"789 Amman St, Amman, Jordan",Premium,Jordan,199
+200,Fatima,Hassan,456-789-0123,"101 Beirut St, Beirut, Lebanon",Standard,Lebanon,200
+201,Majid,Nasr,567-890-1234,"202 Tehran St, Tehran, Iran",Premium,Iran,201
+202,Sara,Hussein,678-901-2345,"303 Baghdad St, Baghdad, Iraq",Standard,Iraq,202
+203,Rashid,Omar,789-012-3456,"404 Doha St, Doha, Qatar",VIP,Qatar,203
+204,Yasmin,Salem,890-123-4567,"505 Muscat St, Muscat, Oman",VIP,Oman,204
+205,Khalid,Nasser,901-234-5678,"606 Manama St, Manama, Bahrain",Standard,Bahrain,205
+206,Nadia,Zahran,123-234-5678,"707 Sanaa St, Sanaa, Yemen",VIP,Yemen,206
+207,Amina,Abed,234-345-6789,"808 Damascus St, Damascus, Syria",VIP,Syria,207
+208,Karim,Mahmoud,345-456-7890,"909 Kuwait City St, Kuwait City, Kuwait",Standard,Kuwait,208
+209,Lina,Jabir,456-567-8901,"1010 Riyadh St, Riyadh, Saudi Arabia",VIP,"Saudi Arabia",209
+210,Mustafa,Said,567-678-9012,"1111 Abu Dhabi St, Abu Dhabi, United Arab Emirates",Premium,"United Arab Emirates",210
+211,Nour,Ismail,678-789-0123,"1212 Amman St, Amman, Jordan",VIP,Jordan,211
+212,Nadia,Issa,789-901-2345,"1313 Beirut St, Beirut, Lebanon",Premium,Lebanon,212
+213,Omar,Zadeh,890-123-4567,"1414 Tehran St, Tehran, Iran",Premium,Iran,213
+214,Laila,Ali,123-234-5678,"1515 Baghdad St, Baghdad, Iraq",VIP,Iraq,214
+215,Ali,Hadi,234-345-6789,"1616 Doha St, Doha, Qatar",VIP,Qatar,215
+216,Eduardo,Gomez,123-456-7890,"123 Main St, Buenos Aires, Argentina",Premium,Argentina,216
+217,Marina,Rodriguez,234-567-8901,"456 Elm St, São Paulo, Brazil",VIP,Brazil,217
+218,Andres,Silva,345-678-9012,"789 Oak St, Santiago, Chile",VIP,Chile,218
+219,Isabela,Martinez,456-789-0123,"101 Maple St, Bogotá, Colombia",Premium,Colombia,219
+220,Javier,Santos,567-890-1234,"202 Pine St, Lima, Peru",Premium,Peru,220
+221,Camila,Lopez,678-901-2345,"303 Cedar St, Quito, Ecuador",VIP,Ecuador,221
+222,Diego,Fernandez,789-012-3456,"404 Birch St, Caracas, Venezuela",VIP,Venezuela,222
+223,Natalia,Perez,890-123-4567,"505 Redwood St, Asunción, Paraguay",VIP,Paraguay,223
+224,Gabriel,Gonzalez,901-234-5678,"606 Oakwood St, Montevideo, Uruguay",Standard,Uruguay,224
+225,Luciana,Silva,123-234-5678,"707 Willow St, La Paz, Bolivia",VIP,Bolivia,225
+226,Ricardo,Ramos,234-345-6789,"808 Cedarwood St, Manaus, Brazil",Premium,Brazil,226
+227,Lara,Torres,345-456-7890,"909 Spruce St, Rio de Janeiro, Brazil",VIP,Brazil,227
+228,Paulo,Santos,456-567-8901,"1010 Maplewood St, Porto Alegre, Brazil",VIP,Brazil,228
+229,Carla,Molina,567-678-9012,"1111 Elmwood St, Medellin, Colombia",VIP,Colombia,229
+230,Raul,Alvarez,123-456-7890,"1212 Oakridge St, Cali, Colombia",Standard,Colombia,230
+231,Manuela,Ferreira,234-567-8901,"1313 Willowridge St, Rio de Janeiro, Brazil",VIP,Brazil,231
+232,Adriano,Andrade,345-678-9012,"1414 Redmaple St, Brasilia, Brazil",Premium,Brazil,232
+233,Raquel,Lima,456-789-0123,"1515 Birchwood St, Brasília, Brazil",VIP,Brazil,233
+234,Fernando,Ribeiro,567-890-1234,"1616 Cedarhill St, Sao Paulo, Brazil",VIP,Brazil,234
+235,Cristina,Mendes,678-901-2345,"1717 Pineville St, Sao Paulo, Brazil",VIP,Brazil,235
+236,Lucio,Costa,789-012-3456,"1818 Oakhurst St, Sao Paulo, Brazil",Standard,Brazil,236
+237,Sofia,Fernandes,890-123-4567,"1919 Willowside St, Rio de Janeiro, Brazil",VIP,Brazil,237
+238,Raul,Rocha,123-234-5678,"2020 Redhill St, Rio de Janeiro, Brazil",Premium,Brazil,238
+239,Amanda,Barbosa,234-345-6789,"2121 Elmfield St, Rio de Janeiro, Brazil",VIP,Brazil,239
+240,Hugo,Santana,345-456-7890,"2222 Oakwoodridge St, Sao Paulo, Brazil",Standard,Brazil,240
+241,Ana,Gomes,456-567-8901,"2323 Cedarwoodville St, Rio de Janeiro, Brazil",Premium,Brazil,241
+242,Ricardo,Cardoso,567-678-9012,"2424 Mapleridge St, Rio de Janeiro, Brazil",VIP,Brazil,242
+243,Nadia,Cunha,123-789-0123,"2525 Elmwoodridge St, Rio de Janeiro, Brazil",Premium,Brazil,243
+244,Sophia,Schmidt,123-456-7890,"123 Hauptstrasse, Berlin, Germany",VIP,Germany,244
+245,Lucas,Rossi,234-567-8901,"456 Strada Principala, Bucharest, Romania",VIP,Romania,245
+246,Elena,Ivanova,345-678-9012,"789 Calle Principal, Madrid, Spain",Premium,Spain,246
+247,Oliver,Lund,456-789-0123,"101 Via Principale, Rome, Italy",VIP,Italy,247
+248,Sophie,Dupont,567-890-1234,"202 Rue Principale, Paris, France",Premium,France,248
+249,Sebastian,Kowalski,678-901-2345,"303 Ulica Glavna, Zagreb, Croatia",VIP,Croatia,249
+250,Alessia,Conti,789-012-3456,"404 Hauptstrasse, Vienna, Austria",VIP,Austria,250
+251,Miguel,Sousa,890-123-4567,"505 Rua Principal, Lisbon, Portugal",VIP,Portugal,251
+252,Viktor,Novak,901-234-5678,"606 Ulica Glavna, Ljubljana, Slovenia",VIP,Slovenia,252
+253,Lena,Müller,123-234-5678,"707 Hauptstrasse, Bern, Switzerland",Premium,Switzerland,253
+254,Lukas,Kovács,234-345-6789,"808 Fo Utca, Budapest, Hungary",VIP,Hungary,254
+255,Ava,Smith,345-456-7890,"909 Main Street, London, UK",Premium,"United Kingdom",255
+256,Luis,García,456-567-8901,"101 Calle Principal, Madrid, Spain",VIP,Spain,256
+257,Elina,Rantanen,567-678-9012,"111 Pääkatu, Helsinki, Finland",VIP,Finland,257
+258,Léo,Martin,123-456-7890,"121 Rue Principale, Paris, France",VIP,France,258
+259,Julia,Berg,234-567-8901,"1313 Hauptstrasse, Berlin, Germany",Premium,Germany,259
+260,Marco,Bianchi,345-678-9012,"1414 Via Principale, Rome, Italy",Premium,Italy,260
+261,Marta,Silva,456-789-0123,"1515 Rua Principal, Lisbon, Portugal",Premium,Portugal,261
+262,Konstantin,Ivanov,567-890-1234,"1616 Ulica Glavna, Ljubljana, Slovenia",Premium,Slovenia,262
+263,Evelyn,Schmidt,678-901-2345,"1717 Hauptstrasse, Vienna, Austria",Premium,Austria,263
+264,Filipe,Dias,789-012-3456,"1818 Rua Principal, Lisbon, Portugal",VIP,Portugal,264
+265,Alex,Ionescu,890-123-4567,"1919 Strada Principala, Bucharest, Romania",VIP,Romania,265
+266,Olga,Petrova,123-234-5678,"2020 Pääkatu, Helsinki, Finland",VIP,Finland,266
+267,Lukas,Hoffmann,234-345-6789,"2121 Hauptstrasse, Berlin, Germany",Premium,Germany,267
+268,Elena,Rusu,345-456-7890,"2222 Strada Principala, Bucharest, Romania",VIP,Romania,268
+269,Sara,Lopez,456-567-8901,"2323 Calle Principal, Madrid, Spain",VIP,Spain,269
+270,Leo,Mäkinen,567-678-9012,"111 Pääkatu, Helsinki, Finland",VIP,Finland,270
+271,Emma,Nieminen,678-789-9013,"1010 Pääkatu, Helsinki, Finland",Standard,Finland,271
+272,Sophia,Schmidt,123-456-7890,"123 Hauptstrasse, Berlin, Germany",Standard,Germany,272
+273,Lucas,Rossi,234-567-8901,"456 Strada Principala, Bucharest, Romania",Premium,Romania,273
+274,Elena,Ivanova,345-678-9012,"789 Calle Principal, Madrid, Spain",Premium,Spain,274
+275,Oliver,Lund,456-789-0123,"101 Via Principale, Rome, Italy",Premium,Italy,275
+276,Sophie,Dupont,567-890-1234,"202 Rue Principale, Paris, France",Premium,France,276
+277,Sebastian,Kowalski,678-901-2345,"303 Ulica Glavna, Zagreb, Croatia",Premium,Croatia,277
+278,Alessia,Conti,789-012-3456,"404 Hauptstrasse, Vienna, Austria",VIP,Austria,278
+279,Miguel,Sousa,890-123-4567,"505 Rua Principal, Lisbon, Portugal",Premium,Portugal,279
+280,Viktor,Novak,901-234-5678,"606 Ulica Glavna, Ljubljana, Slovenia",Premium,Slovenia,280
+281,Lena,Müller,123-234-5678,"707 Hauptstrasse, Bern, Switzerland",Premium,Switzerland,281
+282,Lukas,Kovács,234-345-6789,"808 Fo Utca, Budapest, Hungary",VIP,Hungary,282
+283,Ava,Smith,345-456-7890,"909 Main Street, London, UK",Premium,"United Kingdom",283
+284,Luis,García,456-567-8901,"101 Calle Principal, Madrid, Spain",VIP,Spain,284
+285,Elina,Rantanen,567-678-9012,"111 Pääkatu, Helsinki, Finland",VIP,Finland,285
+286,Léo,Martin,123-456-7890,"121 Rue Principale, Paris, France",Premium,France,286
+287,Julia,Berg,234-567-8901,"1313 Hauptstrasse, Berlin, Germany",VIP,Germany,287
+288,Marco,Bianchi,345-678-9012,"1414 Via Principale, Rome, Italy",VIP,Italy,288
+289,Marta,Silva,456-789-0123,"1515 Rua Principal, Lisbon, Portugal",VIP,Portugal,289
+290,Konstantin,Ivanov,567-890-1234,"1616 Ulica Glavna, Ljubljana, Slovenia",VIP,Slovenia,290
+291,Evelyn,Schmidt,678-901-2345,"1717 Hauptstrasse, Vienna, Austria",VIP,Austria,291
+292,Filipe,Dias,789-012-3456,"1818 Rua Principal, Lisbon, Portugal",VIP,Portugal,292
+293,Alex,Ionescu,890-123-4567,"1919 Strada Principala, Bucharest, Romania",VIP,Romania,293
+294,Olga,Petrova,123-234-5678,"2020 Pääkatu, Helsinki, Finland",Standard,Finland,294
+295,Lukas,Hoffmann,234-345-6789,"2121 Hauptstrasse, Berlin, Germany",Premium,Germany,295
+296,Elena,Rusu,345-456-7890,"2222 Strada Principala, Bucharest, Romania",VIP,Romania,296
+297,Sara,Lopez,456-567-8901,"2323 Calle Principal, Madrid, Spain",VIP,Spain,297
+298,Leo,Mäkinen,567-678-9012,"111 Pääkatu, Helsinki, Finland",Premium,Finland,298
+299,Emma,Nieminen,678-789-9013,"1010 Pääkatu, Helsinki, Finland",VIP,Finland,299
+300,Liam,Jensen,123-456-7890,"123 Main St, Copenhagen, Denmark",VIP,Denmark,300
+301,Emma,Johansson,234-567-8901,"456 Elm St, Stockholm, Sweden",Premium,Sweden,301
+302,Oliver,Sørensen,345-678-9012,"789 Oak St, Oslo, Norway",VIP,Norway,302
+303,Freya,Nielsen,456-789-0123,"101 Maple St, Helsinki, Finland",VIP,Finland,303
+304,Noah,Madsen,567-890-1234,"202 Pine St, Reykjavik, Iceland",Premium,Iceland,304
+305,Hanna,Gustavsson,678-901-2345,"303 Cedar St, Tallinn, Estonia",Premium,Estonia,305
+306,Sebastian,Larsen,789-012-3456,"404 Birch St, Riga, Latvia",VIP,Latvia,306
+307,Ella,Pedersen,890-123-4567,"505 Redwood St, Vilnius, Lithuania",Premium,Lithuania,307
+308,Lucas,Olsen,901-234-5678,"606 Oakwood St, Vilnius, Lithuania",VIP,Lithuania,308
+512,Ance,Soko,34256839,"Las Vinas 28, Las Rozas",NULL,Spain,515
+513,Elfa,Murcielago,7282348291,"Ribadeira street 32, 11, New York",NULL,USA,516
+514,Roni,Sol,3797832237,"Freedom Avenue 287, Seattle",Standard,USA,517
+515,Cassandra,Verde,7424783479,"Paloma stree 122, Santa Fe",Standard,USA,518
+516,Robert,Stiffler,3849348298,"Almond street 85 - 123, Bamberg",Standard,Germany,519
+517,Rosalia,Pascua,4728492749,"Empanada street 89, Albuquerque ",Standard,USA,520
