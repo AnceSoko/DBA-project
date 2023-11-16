@@ -1,0 +1,221 @@
+authors_id,author_name,birth_date,nationality
+1,"John Smith",1980-05-15,American
+2,"Maria García",1991-12-10,Spanish
+3,"Hiroshi Tanaka",1975-03-22,Japanese
+4,"Elena Kalashnikov",1988-08-01,Russian
+5,"Lucas Müller",1994-06-07,German
+6,"Luisa Rodrigues",1983-02-14,Portuguese
+7,"Ahmed Ali",1979-11-19,Egyptian
+8,"Sophie Dupont",1990-09-25,French
+9,"Amit Patel",1987-04-12,Indian
+10,"Marta López",1995-07-30,Mexican
+11,"Andrea Bianchi",1982-01-03,Italian
+12,"Sven Hansen",1976-10-18,Danish
+13,"Olga Ivanova",1993-03-06,Ukrainian
+14,"Rafael Santos",1986-08-27,Brazilian
+15,"Chen Wei",1981-06-22,Chinese
+16,"Johanna Svensson",1992-05-11,Swedish
+17,"Miguel Rodriguez",1978-12-09,Mexican
+18,"Anastasia Papadopoulos",1989-04-04,Greek
+19,"Carlos Martínez",1984-07-15,Spanish
+20,"Anna Nowak",1996-02-20,Polish
+21,"Emily Johnson",1990-04-17,British
+22,"Ricardo Fernandez",1985-03-12,Spanish
+23,"Yuki Nakamura",1977-06-28,Japanese
+24,"Sofia Ivanov",1989-10-05,Russian
+25,"Matthias Schmidt",1992-07-14,German
+26,"Catarina Silva",1984-01-29,Portuguese
+27,"Ahmed Hussein",1982-09-02,Egyptian
+28,"Léa Dupuis",1986-05-08,French
+29,"Rajesh Kapoor",1981-08-23,Indian
+30,"Carlos López",1993-11-03,Mexican
+31,"Giorgio Rossi",1976-12-15,Italian
+32,"Mette Nielsen",1995-02-11,Danish
+33,"Irina Petrova",1983-03-19,Russian
+34,"Andres Martinez",1990-07-26,Mexican
+35,"Hui Li",1979-10-09,Chinese
+36,"Sara Andersson",1987-06-30,Swedish
+37,"Juan Rodriguez",1994-09-28,Mexican
+38,"Kostas Papadopoulos",1988-04-24,Greek
+39,"Maria Garcia",1991-05-02,Spanish
+40,"Jakub Nowak",1986-11-12,Polish
+41,"Oliver Wilson",1992-08-22,British
+42,"Isabella Rossi",1987-06-16,Italian
+43,"Takashi Yamamoto",1985-03-04,Japanese
+44,"Elena Petrov",1990-11-19,Russian
+45,"Franz Müller",1986-09-08,German
+46,"Sara Fernández",1989-04-23,Spanish
+47,"Amina Ali",1984-02-07,Egyptian
+48,"Marie Dupont",1993-12-14,French
+49,"Vikram Kapoor",1982-05-09,Indian
+50,"Miguel Rodríguez",1991-07-01,Mexican
+51,"Giovanni Bianchi",1977-10-28,Italian
+52,"Lise Andersen",1983-01-02,Danish
+53,"Maria Ivanova",1995-06-11,Russian
+54,"Lucas Santos",1988-09-17,Brazilian
+55,"Yan Wei",1986-04-30,Chinese
+56,"Hanna Svensson",1994-02-25,Swedish
+57,"Raul Martinez",1980-08-10,Mexican
+58,"Eleni Papadopoulos",1992-05-15,Greek
+59,"Ana Silva",1996-03-19,Portuguese
+60,"Anton Nowak",1981-11-04,Polish
+61,"Javier González",1990-07-15,Spanish
+62,"Camila Hernandez",1985-04-02,Mexican
+63,"Carlos Rodriguez",1977-11-29,Mexican
+64,"Sofia Ramirez",1992-09-20,Colombian
+65,"Andres Sanchez",1989-05-10,Peruvian
+66,"Isabella Lopez",1984-12-12,Argentinian
+67,"Diego Perez",1993-03-18,Spanish
+68,"Ana Fernandez",1981-08-06,Mexican
+69,"Luis Martinez",1987-06-23,Mexican
+70,"Carmen Torres",1995-02-28,Spanish
+71,"Pablo Diaz",1986-10-01,Chilean
+72,"Elena Soto",1983-04-08,Venezuelan
+73,"Miguel Ruiz",1991-12-30,Mexican
+74,"Lucia Morales",1979-09-14,Spanish
+75,"Gonzalo Castro",1988-01-19,Argentinian
+76,"Liu Wei",1990-07-15,Chinese
+77,"Akihiko Tanaka",1985-04-02,Japanese
+78,"Ananya Gupta",1977-11-29,Indian
+79,"Seung-Ho Kim",1992-09-20,"South Korean"
+80,"Nadia Zaman",1989-05-10,Bangladeshi
+81,"Yusuf Erdogan",1984-12-12,Turkish
+82,"Kazuki Tanaka",1993-03-18,Japanese
+83,"Jing Li",1981-08-06,Chinese
+84,"Ismail Al-Mansoori",1987-06-23,Emirati
+85,"Natasha Patel",1995-02-28,Indian
+86,"Jingwen Xie",1986-10-01,Chinese
+87,"Genghis Bayar",1983-04-08,Mongolian
+88,"Anish Choudhury",1991-12-30,Bangladeshi
+89,"Mei Watanabe",1979-09-14,Japanese
+90,"Dong Hoang",1988-01-19,Vietnamese
+91,"Mariusz Kowalski",1980-07-15,Polish
+92,"Ivan Petrov",1975-04-02,Bulgarian
+93,"Tatiana Novak",1978-11-29,Czech
+94,"Vladimir Kuznetsov",1983-09-20,Russian
+95,"Elena Popescu",1989-05-10,Romanian
+96,"Andriy Shevchenko",1984-12-12,Ukrainian
+97,"Jana Kovac",1987-03-18,Slovak
+98,"Mateusz Nowak",1992-08-06,Polish
+99,"Katerina Dimitrova",1985-06-23,Bulgarian
+100,"Petr Novak",1986-02-28,Czech
+101,"Irena Kowalczyk",1991-10-01,Polish
+102,"Mikhail Ivanov",1987-04-08,Russian
+103,"Lucie Kovarova",1990-12-30,Czech
+104,"Miroslav Hrbek",1982-09-14,Czech
+105,"Nina Petrova",1976-01-19,Bulgarian
+106,"Andris Bērziņš",1980-07-15,Latvian
+107,"Laima Ozoliņa",1975-04-02,Latvian
+108,"Jānis Pētersons",1978-11-29,Latvian
+109,"Inese Sīmane",1983-09-20,Latvian
+110,"Mārtiņš Ķirsis",1989-05-10,Latvian
+111,"Zane Bērziņa",1984-12-12,Latvian
+112,"Valdis Salmiņš",1987-03-18,Latvian
+113,"Līga Kalniņa",1992-08-06,Latvian
+114,"Pēteris Auziņš",1985-06-23,Latvian
+115,"Silvija Riekstiņa",1986-02-28,Latvian
+116,"Jean-Pierre Dupont",1975-06-22,French
+117,"Elena Rodriguez",1980-03-11,Spanish
+118,"Matthias Müller",1978-09-14,German
+119,"Sophie Lefebvre",1985-07-30,French
+120,"Lorenzo Rossi",1982-05-18,Italian
+121,"Ana Silva",1987-12-05,Portuguese
+122,"Thomas Fischer",1989-10-09,German
+123,"Isabel Martinez",1984-04-27,Spanish
+124,"Andreas Wagner",1986-01-03,German
+125,"Marie-Claire Dubois",1990-08-16,French
+126,"Kwame Osei",1982-03-15,Ghanaian
+127,"Amina Ndiaye",1977-09-22,Senegalese
+128,"Chinwe Okoro",1980-11-07,Nigerian
+129,"Lamine Diop",1975-04-12,Senegalese
+130,"Naledi Mokoena",1983-05-28,"South African"
+131,"Sekou Toure",1986-07-10,Guinean
+132,"Aisha Kamara",1979-02-03,"Sierra Leonean"
+133,"Mohammed Abubakar",1984-10-20,Nigerian
+134,"Fatou Sow",1987-12-18,Senegalese
+135,"Isaac Wanjohi",1989-01-25,Kenyan
+136,"Habiba Diallo",1988-06-09,Malian
+137,"Kwesi Mensah",1981-08-14,Ghanaian
+138,"Chidinma Eze",1976-03-19,Nigerian
+139,"Moussa Sissoko",1985-09-30,Malian
+140,"Thabo Ndlovu",1982-04-27,"South African"
+141,"Sophie Anderson",1976-08-02,Australian
+142,"Liam Smith",1983-05-15,"New Zealander"
+143,"Isabella Davies",1979-12-21,Fijian
+144,"Oliver Turner",1981-03-09,Tongan
+145,"Chloe Mitchell",1980-06-17,"Papua New Guinean"
+146,"William Brown",1977-09-29,"Solomon Islander"
+147,"Ella White",1985-04-14,Samoa
+148,"Lucas Wilson",1982-07-11,Vanuatu
+149,"Mia Johnson",1988-01-25,Tahitian
+150,"Jack Harris",1978-11-07,Palauan
+151,"Emily Lee",1986-10-18,Micronesian
+152,"Noah Clark",1989-02-03,"New Caledonian"
+153,"Zoe Turner",1975-03-22,Ni-Vanuatu
+154,"Jacob Robinson",1987-06-30,Kiribati
+155,"Charlotte Taylor",1984-12-10,Nauruan
+156,"Erik Hansen",1978-03-12,Danish
+157,"Maja Jansson",1985-05-22,Swedish
+158,"Aksel Olsen",1982-11-05,Norwegian
+159,"Sofia Bergman",1986-09-15,Finnish
+160,"Anders Petersen",1980-07-08,Swedish
+161,"Ingrid Sørensen",1979-01-30,Danish
+162,"Oskar Eriksson",1987-12-14,Swedish
+163,"Kirsten Andersen",1976-10-27,Norwegian
+164,"Ville Jokinen",1984-04-09,Finnish
+165,"Henrik Lindqvist",1977-08-23,Swedish
+166,"Mia Haugen",1983-06-18,Norwegian
+167,"Niklas Andersson",1981-02-03,Swedish
+168,"Helena Niemi",1975-11-11,Finnish
+169,"Johan Mikkelsen",1988-07-20,Danish
+170,"Tove Hansen",1989-01-05,Swedish
+171,"Luis Rodriguez",1980-05-10,Argentina
+172,"Maria Lopez",1975-08-15,Colombia
+173,"Carlos Garcia",1982-03-22,Peru
+174,"Ana Martinez",1970-11-30,Mexico
+175,"Diego Fernandez",1977-06-07,Chile
+176,"Laura Torres",1985-09-25,Ecuador
+177,"Pedro Silva",1979-02-18,Venezuela
+178,"Isabel Gonzalez",1973-12-12,Guatemala
+179,"Ricardo Ramirez",1984-04-01,Honduras
+180,"Sofia Morales",1978-07-03,"El Salvador"
+181,"Javier Martinez",1983-01-11,"Costa Rica"
+182,"Paula Perez",1971-10-29,Bolivia
+183,"Daniel Rodriguez",1986-08-02,Nicaragua
+184,"Carmen Fernandez",1976-04-17,Paraguay
+185,"Fernando Mendez",1981-06-23,Panama
+186,"Lucia Diaz",1972-09-14,Uruguay
+187,"Roberto Castro",1987-03-06,"Puerto Rico"
+188,"Silvia Ortega",1974-05-08,"Dominican Republic"
+189,"Andres Gomez",1988-11-19,Cuba
+190,"Valeria Chavez",1975-12-04,Belize
+191,"Luisa Vargas",1970-07-27,Suriname
+192,"Miguel Fernandez",1989-02-10,Guyana
+193,"Adriana Perez",1979-03-12,"Trinidad and Tobago"
+194,"Manuel Soto",1977-08-07,Haiti
+195,"Monica Torres",1973-06-16,Jamaica
+196,"Carlos Medina",1985-04-09,Barbados
+197,"Lorena Duarte",1978-09-03,Grenada
+198,"Rafael Gomez",1976-01-20,"Antigua and Barbuda"
+199,"Natalia Cruz",1984-07-28,"Saint Kitts and Nevis"
+200,"Antonio Suarez",1980-10-15,"Saint Lucia"
+201,"Elena Pena",1971-11-18,"Saint Vincent and the Grenadines"
+202,"Santiago Rosales",1982-12-21,Bermuda
+203,"Gloria Jimenez",1972-02-24,"The Bahamas"
+204,"Joaquin Mendez",1986-05-03,"Turks and Caicos Islands"
+205,"Camila Silva",1974-08-26,"Cayman Islands"
+206,"Vicente Castro",1979-09-01,Aruba
+207,"Antonia Rivera",1988-03-14,Curacao
+208,"Alejandro Ortega",1977-06-22,"Sint Maarten"
+209,"Catalina Santos",1978-04-30,"British Virgin Islands"
+210,"Mateo Mendez",1989-10-12,"Saint Martin"
+211,"Olivia Gomez",1981-07-04,Anguilla
+212,"Leonardo Perez",1975-11-09,Montserrat
+213,"Emma Ramirez",1976-08-03,"Falkland Islands"
+214,"Felipe Torres",1984-01-26,"South Georgia and the South Sandwich Islands"
+215,"Laura Mendez",1973-12-07,"French Guiana"
+216,"Julia Fernandez",1980-02-13,Guyane
+217,"Roberto Rodriguez",1972-09-29,Surinam
+218,"Sofia Soto",1982-06-18,Aruba
+220,"Luis Velazquez",1956-03-25,Spanish
+222,"Remedios Vegas",1983-02-12,Argentinian

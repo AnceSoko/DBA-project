@@ -1,0 +1,540 @@
+book_id,title,avarage_rating,price,quantity_sold,total_paid,genre_name,author_name,nationality
+1,"The Starry Chronicles",4.5,54.08,55,2974.40,"Science Fiction","John Smith",American
+1,"The Starry Chronicles",4.5,54.08,55,2974.40,"Science Fiction","Matthias Schmidt",German
+140,"Policy Analysis: Decision-Making",4.2,66.55,41,2728.55,"Science Fiction","Thabo Ndlovu","South African"
+147,"Murder at Midnight",4.4,29.04,70,1974.72,"Science Fiction","Naledi Mokoena","South African"
+147,"Murder at Midnight",4.4,29.04,70,1974.72,"Science Fiction","Ella White",Samoa
+280,"The Lost Paradise",4.8,54.36,17,924.12,"Science Fiction","Kwesi Mensah",Ghanaian
+295,"Clockwork Carnival",4.7,13.09,31,497.42,"Science Fiction","Andrea Bianchi",Italian
+332,"Martial Arts Mastery",4.7,43.46,44,1912.24,"Science Fiction","Luis Martinez",Mexican
+418,"The Yoga Sutras",3.6,63.55,64,4448.50,"Science Fiction","Laura Mendez","French Guiana"
+442,"The Worst Hard Time",3.4,74.14,31,2298.34,"Science Fiction","William Brown","Solomon Islander"
+2,"Secrets of the Enchanted Forest",2.8,81.09,65,5838.48,Fantasy,"Maria García",Spanish
+60,"Embrace the Outdoors: Nature Connection",4.7,9.96,44,418.32,Fantasy,"Anton Nowak",Polish
+151,"Secrets of Suspense",4.2,66.32,49,2652.80,Fantasy,"Emily Lee",Micronesian
+168,"Rendezvous in Venice",4.3,59.37,43,2731.02,Fantasy,"Helena Niemi",Finnish
+180,"The Chase",4.6,9.82,43,422.26,Fantasy,"Sofia Morales","El Salvador"
+231,"Exploring the Amazon River",4.7,87.84,29,2547.36,Fantasy,"Ana Silva",Portuguese
+287,"Airship Adventure",4.6,52.70,21,1581.00,Fantasy,"Ingrid Sørensen",Danish
+368,"The Art of Business",4.7,65.60,39,2558.40,Fantasy,"Kirsten Andersen",Norwegian
+398,"The Book of Mormon",3.5,108.99,21,2833.74,Fantasy,"Maria García",Spanish
+407,"The Gospel of Judas",3.7,99.74,36,3590.64,Fantasy,"Maria García",Spanish
+409,"The Talmud",3.5,17.16,64,1201.20,Fantasy,"Yuki Nakamura",Japanese
+410,"The I Ching",3.4,17.24,28,482.72,Fantasy,"Ville Jokinen",Finnish
+468,"City of Miracles",3.8,104.92,25,2623.00,Fantasy,"Ahmed Hussein",Egyptian
+468,"City of Miracles",3.8,104.92,25,2623.00,Fantasy,"Kwame Osei",Ghanaian
+3,"The Lost City of Atlantis",4.7,77.66,61,4737.26,Mystery,"Hiroshi Tanaka",Japanese
+182,"The Hunted",4.0,26.65,45,1199.25,Mystery,"Paula Perez",Bolivia
+279,"Hearts in Harmony",4.7,23.09,28,646.52,Mystery,"Vicente Castro",Aruba
+296,"The Sky Captain",4.6,38.73,48,1781.58,Mystery,"Andres Martinez",Mexican
+357,"Financial Management",4.6,108.87,39,3701.58,Mystery,"Thabo Ndlovu","South African"
+382,"Strategic Supply Chain Management",4.5,104.68,39,4082.52,Mystery,"Ismail Al-Mansoori",Emirati
+395,"The Quran",3.8,48.52,35,1698.20,Mystery,"Helena Niemi",Finnish
+466,"City of Stairs",3.0,27.17,75,1874.73,Mystery,"Katerina Dimitrova",Bulgarian
+4,"Journey to the Cosmic Frontier",4.4,44.41,21,932.61,Romance,"Elena Kalashnikov",Russian
+52,"Mindful Parenting: Raising Happy Kids",4.2,55.63,41,2336.46,Romance,"Lise Andersen",Danish
+61,"The Mind-Body Connection",4.4,29.72,41,1218.52,Romance,"Javier González",Spanish
+206,"The Great American Pie Book",4.8,34.18,26,1059.58,Romance,"Vicente Castro",Aruba
+262,"Whispers in the Wind",4.6,79.46,48,3814.08,Romance,"Fernando Mendez",Panama
+281,"Whispers of the Sea",4.6,62.34,35,2181.90,Romance,"Mikhail Ivanov",Russian
+386,"Financial Mastery",4.7,59.24,60,3554.40,Romance,"Luis Martinez",Mexican
+430,"The Nature Principle",3.5,23.00,77,1771.00,Romance,"Lise Andersen",Danish
+5,"The Quest for Eternal Wisdom",4.3,29.89,28,896.70,Thriller,"Lucas Müller",German
+199,"Healthy Eating 101",4.8,20.03,44,881.32,Thriller,"Natalia Cruz","Saint Kitts and Nevis"
+225,"Cultural Wonders of India",4.9,27.68,81,2242.08,Thriller,"Sofia Soto",Aruba
+265,"The Captive Heart",4.6,118.36,38,4497.68,Thriller,"Anders Petersen",Swedish
+387,"The Art of Entrepreneurship",4.6,19.30,39,772.00,Thriller,"Sofia Soto",Aruba
+488,"Aurora Rhymes",3.1,12.99,60,779.40,Thriller,"Ahmed Hussein",Egyptian
+491,"Solitude Sonnets",3.4,52.96,61,3230.56,Thriller,"Seung-Ho Kim","South Korean"
+6,"The Time Traveler's Diary",4.6,97.37,27,2921.10,Horror,"Luisa Rodrigues",Portuguese
+145,"Conflict Resolution Strategies",4.2,41.35,26,1075.10,Horror,"Chloe Mitchell","Papua New Guinean"
+185,"Mystery Thrillers",4.2,95.31,53,5337.36,Horror,"Fernando Mendez",Panama
+197,"Spices and Flavors of India",4.7,58.35,22,991.95,Horror,"Andrea Bianchi",Italian
+197,"Spices and Flavors of India",4.7,58.35,22,991.95,Horror,"Lorena Duarte",Grenada
+229,"The Serengeti Wildlife Expedition",4.5,66.18,59,3970.80,Horror,"Carlos Garcia",Peru
+251,"The Broken Promise",4.7,96.63,32,2995.53,Horror,"Sofia Ramirez",Colombian
+252,"When the Rain Falls",4.9,51.14,63,3221.82,Horror,"Sara Andersson",Swedish
+289,"The Steam Revolution",4.6,106.33,30,3189.90,Horror,"Kazuki Tanaka",Japanese
+303,"Steampunk Safari",4.6,98.17,19,2159.74,Horror,"Miguel Rodríguez",Mexican
+330,"Aquatic Achievements",4.7,98.49,73,5416.95,Horror,"Andres Gomez",Cuba
+339,"Leadership Lessons",4.6,112.67,26,2929.42,Horror,"Elena Popescu",Romanian
+352,"Sales Success",4.5,26.45,23,872.85,Horror,"Vladimir Kuznetsov",Russian
+363,"Financial Planning",4.6,50.01,20,1000.20,Horror,"Petr Novak",Czech
+396,"The Bhagavad Gita",3.7,31.82,35,1113.70,Horror,"Lucas Müller",German
+417,"The Book of Awakening",3.7,15.98,53,846.94,Horror,"Natalia Cruz","Saint Kitts and Nevis"
+435,"The End of Nature",4.0,18.22,36,583.04,Horror,"Amina Ndiaye",Senegalese
+7,"Infinite Realms of Imagination",5.0,104.11,38,4372.62,Drama,"Ahmed Ali",Egyptian
+121,"Metaphysics Unveiled",4.7,20.48,32,737.28,Drama,"Ana Silva",Portuguese
+124,"The Legacy of Aristotle",4.4,111.09,59,6665.40,Drama,"Andreas Wagner",German
+132,"Challenges in Global Governance",4.3,99.64,43,4284.52,Drama,"Aisha Kamara","Sierra Leonean"
+204,"Vegan Delights: Plant-Powered Recipes",4.5,60.11,44,2644.84,Drama,"Joaquin Mendez","Turks and Caicos Islands"
+210,"Gluten-Free Cooking Explained",4.8,47.96,20,959.20,Drama,"Mateo Mendez","Saint Martin"
+213,"The Joy of Baking Bread",4.5,79.08,25,1977.00,Drama,"Emma Ramirez","Falkland Islands"
+228,"Adventures in the Amazon Rainforest",4.7,47.73,43,2052.39,Drama,"Takashi Yamamoto",Japanese
+273,"Eternal Spring",4.7,100.46,42,4219.32,Drama,"Elena Petrov",Russian
+317,"Basketball Strategies",4.7,94.46,74,6990.04,Drama,"Andris Bērziņš",Latvian
+349,"Digital Marketing Domination",4.8,86.74,50,3816.56,Drama,"Silvija Riekstiņa",Latvian
+385,"Sustainable Business Practices",4.8,100.01,37,4200.42,Drama,"Oliver Turner",Tongan
+445,"The Lorax",3.1,27.91,50,1311.77,Drama,"Mohammed Abubakar",Nigerian
+481,"Dance of Words",2.4,92.21,36,2674.09,Drama,"Elena Rodriguez",Spanish
+493,"Echoes in the Night",3.6,109.94,39,4287.66,Drama,"Julia Fernandez",Guyane
+502,"The Adventure of Mr. Teddy Bear",4.5,118.46,40,4738.40,Drama,"Inese Sīmane",Latvian
+8,"Whispers from Another Dimension",4.6,52.23,25,1305.75,Adventure,"Sophie Dupont",French
+54,"The Power of Positivity",4.4,85.57,55,4706.35,Adventure,"Lucas Santos",Brazilian
+92,"Rituals and Ceremonies: Timeless Practices",4.3,74.34,75,5575.50,Adventure,"Ivan Petrov",Bulgarian
+111,"Metaphysical Musings",4.6,87.78,45,3950.10,Adventure,"Zane Bērziņa",Latvian
+184,"Conspiracy Theories",4.5,113.71,38,4548.40,Adventure,"Carmen Fernandez",Paraguay
+243,"Hidden Desires",4.7,29.74,65,1933.10,Adventure,"Thabo Ndlovu","South African"
+256,"Chasing Dreams",4.8,10.73,34,418.47,Adventure,"John Smith",American
+264,"Stolen Moments",4.7,65.70,78,5124.60,Adventure,"Helena Niemi",Finnish
+328,"Extreme Sports Escapades",4.6,93.63,45,4213.35,Adventure,"Jana Kovac",Slovak
+360,"Start-up Stories",4.7,40.94,40,1432.90,Adventure,"Emma Ramirez","Falkland Islands"
+411,"The Vedas",3.3,109.01,22,2398.22,Adventure,"Emily Lee",Micronesian
+414,"The Zohar",3.0,26.44,26,687.44,Adventure,"Moussa Sissoko",Malian
+421,"The Varieties of Religious Experience",3.3,7.01,51,378.54,Adventure,"Chidinma Eze",Nigerian
+444,"A Sand County Almanac",3.2,27.27,70,2045.25,Adventure,"Charlotte Taylor",Nauruan
+459,"The Worst Hard Time",3.7,43.34,42,1776.94,Adventure,"Luis Martinez",Mexican
+9,"The Island of Forgotten Dreams",4.2,21.87,29,699.84,Biography,"Amit Patel",Indian
+88,"Folklore Chronicles: Tales and Customs",4.7,8.11,36,291.96,Biography,"Anish Choudhury",Bangladeshi
+134,"Political Theory: Key Concepts",4.2,94.44,32,3022.08,Biography,"Fatou Sow",Senegalese
+258,"The Secret Garden",4.7,82.47,62,5113.14,Biography,"Ahmed Ali",Egyptian
+268,"Hearts Afire",4.7,11.21,61,683.81,Biography,"Maria Ivanova",Russian
+312,"Golfing Greats",4.8,65.29,37,2611.60,Biography,"Pedro Silva",Venezuela
+489,"Lyrical Reflections",3.2,119.02,89,9997.68,Biography,"Elena Popescu",Romanian
+498,"Whispering Poesy",4.0,117.03,42,4681.20,Biography,"Rajesh Kapoor",Indian
+10,"Voyage to the End of the Universe",4.8,8.10,67,575.10,"Historical Fiction","Marta López",Mexican
+49,"Finding Balance: Work and Life",4.4,107.44,41,4405.04,"Historical Fiction","Vikram Kapoor",Indian
+75,"Galactic Mysteries: Unraveling the Universe",4.7,64.92,53,3440.76,"Historical Fiction","Gonzalo Castro",Argentinian
+97,"Heritage Revival: Reconnecting with the Past",4.4,95.42,22,2099.24,"Historical Fiction","Jana Kovac",Slovak
+97,"Heritage Revival: Reconnecting with the Past",4.4,95.42,22,2099.24,"Historical Fiction","Aisha Kamara","Sierra Leonean"
+110,"The Art of Reasoning",4.8,32.18,35,1255.02,"Historical Fiction","Mārtiņš Ķirsis",Latvian
+155,"Case Closed",4.2,47.56,26,1236.56,"Historical Fiction","Charlotte Taylor",Nauruan
+219,"African Safari Tales",4.6,18.69,57,1084.02,"Historical Fiction","Liu Wei",Chinese
+364,"The MBA Handbook",4.5,91.21,47,4286.87,"Historical Fiction","Lucia Diaz",Uruguay
+483,"Ink and Dreams",2.6,86.71,121,10405.20,"Historical Fiction","Chidinma Eze",Nigerian
+522,"Lilly of the Valley",NULL,12.50,9,50.00,"Historical Fiction","Zane Bērziņa",Latvian
+11,"Chronicles of the Galactic Heroes",4.4,45.33,52,2175.84,Crime,"Andrea Bianchi",Italian
+50,"The Joy of Minimalism",4.8,51.95,46,2389.70,Crime,"Miguel Rodríguez",Mexican
+73,"The Cosmic Journey: From Earth to the Stars",4.6,25.70,28,771.00,Crime,"Miguel Ruiz",Mexican
+74,"Astronaut Diaries: Life in Space",4.4,93.09,42,3909.78,Crime,"Lucia Morales",Spanish
+83,"Space Oddities: Bizarre Phenomena in the Cosmos",4.5,29.29,62,1610.95,Crime,"Jing Li",Chinese
+99,"Ancient Rites and Ceremonies: Respecting the Past",4.5,110.24,25,2756.00,Crime,"Katerina Dimitrova",Bulgarian
+108,"Philosophical Debates: A Critical View",4.7,48.85,41,2002.85,Crime,"Jānis Pētersons",Latvian
+158,"Dark Secrets",4.3,96.07,49,4707.43,Crime,"Aksel Olsen",Norwegian
+226,"Scenic Beauty of New Zealand",4.6,78.29,74,5793.46,Crime,"Lucas Wilson",Vanuatu
+267,"The Enchanted Forest",4.6,43.82,40,1752.80,Crime,"Oskar Eriksson",Swedish
+276,"Moonlight Serenade",4.7,60.63,39,1818.90,Crime,"Léa Dupuis",French
+419,"The Heart of Christianity",3.5,43.38,60,2602.80,Crime,"Lucia Diaz",Uruguay
+433,"An Inconvenient Truth",3.2,39.48,50,2684.64,Crime,"Sofia Soto",Aruba
+12,"Legends of the Starry Skies",4.7,77.16,54,3086.40,Science,"Sven Hansen",Danish
+109,"The Mind of Socrates",4.4,62.32,40,2492.80,Science,"Inese Sīmane",Latvian
+133,"Revolutionary Movements",4.6,43.04,74,3400.16,Science,"Mohammed Abubakar",Nigerian
+277,"Echoes of the Heart",4.5,20.80,18,353.60,Science,"Chidinma Eze",Nigerian
+306,"Mysteries of the Gears",4.6,24.35,80,1948.00,Science,"Anna Nowak",Polish
+314,"Victory in Volleyball",4.6,23.62,46,1062.90,Science,"Ingrid Sørensen",Danish
+412,"The Apocrypha",3.2,111.65,48,5359.20,Science,"Olga Ivanova",Ukrainian
+424,"The End of Your World",3.0,42.53,63,2551.80,Science,"Olga Ivanova",Ukrainian
+446,"Silent Spring",3.0,99.76,69,6284.88,Science,"Miguel Rodríguez",Mexican
+454,"The Overstory",3.2,59.20,82,4854.40,Science,"Niklas Andersson",Swedish
+521,"Unicorn Dreams",2.0,15.09,55,829.95,Science,"Sekou Toure",Guinean
+13,"Realm of Eternal Wonder",4.5,72.05,43,3098.15,Self-Help,"Olga Ivanova",Ukrainian
+82,"Hubble's Legacy: Capturing the Universe in Images",4.6,84.23,40,3453.43,Self-Help,"Kazuki Tanaka",Japanese
+122,"The Philosophy of Science",4.5,50.41,57,2873.37,Self-Help,"Thomas Fischer",German
+170,"Love Letters",4.2,118.26,44,5439.96,Self-Help,"Tove Hansen",Swedish
+215,"Cruise Adventures in the Caribbean",4.4,114.93,48,5516.64,Self-Help,"Laura Mendez","French Guiana"
+230,"Discovering Japan's Traditions",4.8,113.80,30,3414.00,Self-Help,"Lucie Kovarova",Czech
+253,"Torn Hearts",4.6,39.31,67,2751.70,Self-Help,"Jean-Pierre Dupont",French
+366,"Entrepreneurial Insights",4.7,43.80,59,2452.80,Self-Help,"Isabel Gonzalez",Guatemala
+469,Elantris,3.7,118.36,74,9350.44,Self-Help,"Oliver Turner",Tongan
+469,Elantris,3.7,118.36,74,9350.44,Self-Help,"Antonio Suarez","Saint Lucia"
+479,"Soulful Verses",2.2,89.49,27,2416.23,Self-Help,"Silvia Ortega","Dominican Republic"
+14,"Mysteries of the Quantum Realm",4.2,116.33,114,12679.97,Cooking,"Rafael Santos",Brazilian
+79,"Alien Encounters: Close Encounters of the Third Kind",4.3,113.01,63,7458.66,Cooking,"Seung-Ho Kim","South Korean"
+107,"Ethics and Moral Dilemmas",4.2,52.34,26,1360.84,Cooking,"Laima Ozoliņa",Latvian
+115,"The Nature of Consciousness",4.8,69.20,59,4221.20,Cooking,"Silvija Riekstiņa",Latvian
+207,"Mediterranean Meze and Tapas",4.6,81.35,35,2521.85,Cooking,"Antonia Rivera",Curacao
+240,"Shattered Reflections",4.6,116.65,93,10848.45,Cooking,"Liam Smith","New Zealander"
+310,"Beyond the Finish Line",4.5,64.39,51,2961.94,Cooking,"Lamine Diop",Senegalese
+322,"Cycling Secrets",4.6,108.50,42,4557.00,Cooking,"Valdis Salmiņš",Latvian
+335,"Equestrian Excellence",4.6,96.36,60,5781.60,Cooking,"Yusuf Erdogan",Turkish
+354,"Marketing for Small Businesses",4.7,46.22,30,1386.60,Cooking,"Naledi Mokoena","South African"
+378,"Digital Marketing Trends",4.7,17.00,45,765.00,Cooking,"Mette Nielsen",Danish
+383,"Marketing Strategies for Small Businesses",4.6,62.52,37,2313.24,Cooking,"Chen Wei",Chinese
+452,"The End of Nature",3.4,29.31,36,1260.33,Cooking,"Nina Petrova",Bulgarian
+456,"The Ecology of Commerce",3.0,54.63,34,1857.42,Cooking,"Leonardo Perez",Montserrat
+477,"Whispers of the Heart",2.0,48.91,44,2152.04,Cooking,"Yan Wei",Chinese
+506,"Alice in Whimsyland",4.1,33.38,54,1802.52,Cooking,"Miguel Rodriguez",Mexican
+516,"Jungle Safari with Timmy",3.2,111.08,49,4776.44,Cooking,"Lamine Diop",Senegalese
+15,"Epic Adventures Beyond Time",4.6,106.75,54,5764.50,Travel,"Chen Wei",Chinese
+63,"Nourish Your Soul: Self-Care Essentials",4.5,74.29,21,1560.09,Travel,"Carlos Rodriguez",Mexican
+84,"Voyagers: Pioneers of Space Exploration",4.8,35.13,42,1475.46,Travel,"Ismail Al-Mansoori",Emirati
+91,"The Roots of Culture: Ancestral Traditions",4.6,56.82,45,2556.90,Travel,"Mariusz Kowalski",Polish
+95,"Cultural Customs: Uniting Communities",4.8,105.24,35,3578.16,Travel,"Elena Popescu",Romanian
+181,"In the Shadows",4.2,83.78,43,3183.64,Travel,"Javier Martinez","Costa Rica"
+195,"Plant-Based Cooking Made Simple",4.9,56.46,58,2823.00,Travel,"Monica Torres",Jamaica
+351,"Business Ethics",4.6,14.49,30,376.74,Travel,"Jean-Pierre Dupont",French
+403,"The Book of Enoch",4.0,111.19,37,3558.08,Travel,"Mette Nielsen",Danish
+447,"The Nature Principle",3.9,31.61,7,221.27,Travel,"Matthias Müller",German
+448,"Cadillac Desert",3.8,52.95,55,2912.25,Travel,"Laura Torres",Ecuador
+478,"Eternal Echoes",2.1,12.41,46,558.45,Travel,"Thomas Fischer",German
+16,"The Enchanted Kingdom",4.3,37.38,32,1196.16,Children's,"Johanna Svensson",Swedish
+56,"Achieving Financial Freedom",4.5,72.26,47,3902.04,Children's,"Hanna Svensson",Swedish
+57,"The Well-Being Revolution",4.8,119.29,46,5487.34,Children's,"Raul Martinez",Mexican
+94,"Passing Down Traditions: Generational Wisdom",4.5,85.60,31,2653.60,Children's,"Vladimir Kuznetsov",Russian
+105,"World Traditions Explored: Shared Histories",4.7,42.18,60,2362.08,Children's,"Nina Petrova",Bulgarian
+169,"Sunset Serenade",4.5,106.60,52,5543.20,Children's,"Johan Mikkelsen",Danish
+211,"Quick and Tasty Stir-Fries",4.9,57.12,39,1999.20,Children's,"Olivia Gomez",Anguilla
+246,"Dark Secrets",4.8,22.79,38,866.02,Children's,"Maja Jansson",Swedish
+261,"The Haunting Melody",4.7,27.26,47,1281.22,Children's,"Zane Bērziņa",Latvian
+274,"The Forbidden Love",4.6,11.29,41,462.89,Children's,"Sofia Bergman",Finnish
+334,"Snowboarding Stories",4.7,54.27,39,2116.53,Children's,"Ahmed Hussein",Egyptian
+362,"Economic Growth",4.7,77.54,39,3101.60,Children's,"Amina Ndiaye",Senegalese
+406,"The Gospel of Mary",3.8,97.63,34,2538.38,Children's,"Oliver Wilson",British
+422,"The Kingdom of God Is Within You",3.2,102.34,28,3377.22,Children's,"Isabella Rossi",Italian
+17,"Legends of the Lost Temple",4.7,109.74,43,4828.56,"Young Adult","Miguel Rodriguez",Mexican
+214,"Exploring the Andes: A Hiker's Guide",4.5,70.04,74,4902.80,"Young Adult","Felipe Torres","South Georgia and the South Sandwich Islands"
+220,"Romantic Getaways in Italy",4.7,60.20,32,1866.20,"Young Adult","Aksel Olsen",Norwegian
+266,"Eternal Shadows",4.8,100.68,32,3221.76,"Young Adult","Kirsten Andersen",Norwegian
+285,"Machines of Magic",4.5,82.72,50,4136.00,"Young Adult","Javier Martinez","Costa Rica"
+294,"The Mechanical Mage",4.6,82.28,68,6088.72,"Young Adult","Laura Mendez","French Guiana"
+300,"Gears of Glory",4.8,89.24,27,2409.48,"Young Adult","Sofia Morales","El Salvador"
+326,"Powerlifting Prodigies",4.5,68.81,56,3853.36,"Young Adult","Rafael Gomez","Antigua and Barbuda"
+356,"The Art of Management",4.7,64.36,53,3411.08,"Young Adult","Laima Ozoliņa",Latvian
+380,"Business Culture and Ethics",4.7,38.36,33,1035.72,"Young Adult","Henrik Lindqvist",Swedish
+462,"The Ocean at the End of the Lane",3.4,101.55,52,4874.40,"Young Adult","Lucia Diaz",Uruguay
+471,"Mistborn: The Well of Ascension",3.5,94.81,45,4740.50,"Young Adult","Carlos López",Mexican
+18,"The Secrets of the Sphinx",4.6,64.94,38,2467.72,Poetry,"Anastasia Papadopoulos",Greek
+194,"Mouthwatering Mediterranean Cuisine",4.6,95.22,69,6094.08,Poetry,"Manuel Soto",Haiti
+282,"Clockwork Dreams",4.6,100.55,59,5530.25,Poetry,"Rajesh Kapoor",Indian
+333,"Gymnastics Greatness",4.5,86.97,47,4087.59,Poetry,"Andres Gomez",Cuba
+441,"The Weather Makers",3.5,18.42,58,1197.30,Poetry,"Elena Pena","Saint Vincent and the Grenadines"
+443,"Pilgrim at Tinker Creek",3.3,79.61,78,6289.19,Poetry,"Anna Nowak",Polish
+472,"Mistborn: The Hero of Ages",3.4,63.58,46,2924.68,Poetry,"Kirsten Andersen",Norwegian
+501,"Serene Sonnets",3.7,110.78,44,4985.10,Poetry,"Anna Nowak",Polish
+512,"Pirate Pete and His Parrot",3.6,21.51,36,774.36,Poetry,"Miguel Fernandez",Guyana
+19,"Voyage to the Underwater Realm",4.5,34.02,60,2041.20,Classic,"Carlos Martínez",Spanish
+86,"Cultural Heritage: Ancient Traditions",4.5,106.96,63,5989.76,Classic,"Jingwen Xie",Chinese
+102,"Legacy of Rituals: A World of Celebrations",4.5,40.56,40,1622.40,Classic,"Mikhail Ivanov",Russian
+130,"The Power of Negotiation",4.4,42.22,69,3124.28,Classic,"Naledi Mokoena","South African"
+190,"Suspenseful Moments",4.2,25.40,38,1041.40,Classic,"Valeria Chavez",Belize
+313,"The Soccer Star",4.5,105.98,50,5299.00,Classic,"Jacob Robinson",Kiribati
+345,"Financial Strategies",4.6,97.64,51,4979.64,Classic,"Raul Martinez",Mexican
+359,"Corporate Strategy",4.6,87.65,35,3243.05,Classic,"Sofia Soto",Aruba
+399,"The Tripitaka",3.4,86.39,45,3887.55,Classic,"Elena Soto",Venezuelan
+484,"Verses of the Heart",2.7,27.26,53,1308.48,Classic,"Liam Smith","New Zealander"
+20,"Chronicles of the Hidden Scrolls",4.2,98.43,45,4232.49,Humor,"Anna Nowak",Polish
+72,"Black Holes and Wormholes: Portals to the Unknown",4.2,41.33,61,2521.13,Humor,"Elena Soto",Venezuelan
+136,"Understanding Political Systems",4.1,52.37,41,2147.17,Humor,"Habiba Diallo",Malian
+137,"The Future of Governance",4.3,100.56,46,5229.12,Humor,"Kwesi Mensah",Ghanaian
+166,"Heartwarming Moments",4.2,32.44,38,1265.16,Humor,"Mia Haugen",Norwegian
+198,"Homestyle Italian Cooking",4.5,76.88,42,3690.24,Humor,"Rafael Gomez","Antigua and Barbuda"
+208,"Chinese Takeout at Home",4.5,61.43,15,921.45,Humor,"Alejandro Ortega","Sint Maarten"
+212,"Baking with Chocolate: Irresistible Treats",4.7,68.57,24,2194.24,Humor,"Leonardo Perez",Montserrat
+233,"Lost in Time",4.4,28.69,32,1061.53,Humor,"Roberto Castro","Puerto Rico"
+254,"Reflections of Hope",4.5,8.30,88,697.20,Humor,"Alejandro Ortega","Sint Maarten"
+272,"The Hidden Treasures",4.5,64.05,34,2177.70,Humor,"Chen Wei",Chinese
+337,"The Entrepreneur's Guide",4.8,52.20,38,1983.60,Humor,"Miguel Fernandez",Guyana
+389,"Investing in Your Future",4.6,19.68,45,865.92,Humor,"Andres Gomez",Cuba
+449,"The Water Will Come",3.7,89.99,51,4589.49,Humor,"Amit Patel",Indian
+450,"An Inconvenient Truth",3.6,86.21,52,4913.97,Humor,"Mateo Mendez","Saint Martin"
+458,"The Weather Makers",3.8,25.83,36,929.88,Humor,"Natasha Patel",Indian
+505,"The Brave Little Knight",4.2,105.82,32,3174.60,Humor,"Johan Mikkelsen",Danish
+511,"Winnie the Wizard",3.7,61.16,80,4525.84,Humor,"Matthias Müller",German
+514,"The Adventures of Dolly and Bobby",3.4,61.28,47,2880.16,Humor,"Raul Martinez",Mexican
+21,"Epic Adventures of the Brave Knight",4.4,51.84,46,2384.64,Religion,"Emily Johnson",British
+113,"The Quest for Truth",4.7,56.03,23,1288.69,Religion,"Līga Kalniņa",Latvian
+113,"The Quest for Truth",4.7,56.03,23,1288.69,Religion,"Luis Velazquez",Spanish
+242,"Fragments of Yesterday",4.6,42.40,101,4197.60,Religion,"Anna Nowak",Polish
+260,"The Scarlet Letter",4.8,81.45,14,1140.30,Religion,"Sara Fernández",Spanish
+305,"Steam and Sorcery",4.7,114.36,79,9034.44,Religion,"Julia Fernandez",Guyane
+404,"The Book of the Dead",4.0,11.06,43,497.70,Religion,"Andreas Wagner",German
+415,"The Tao of Pooh",3.9,78.45,47,3687.15,Religion,"Silvija Riekstiņa",Latvian
+415,"The Tao of Pooh",3.9,78.45,47,3687.15,Religion,"Johan Mikkelsen",Danish
+22,"Mysteries of the Forest Elves",4.8,47.04,43,2022.72,Philosophy,"Ricardo Fernandez",Spanish
+93,"Living Traditions: Heritage Preservation",4.7,76.94,66,5078.04,Philosophy,"Tatiana Novak",Czech
+150,"Intriguing Investigations",4.6,69.04,57,3728.16,Philosophy,"Jack Harris",Palauan
+308,"Soccer Legends",4.6,61.83,55,2967.84,Philosophy,"Catarina Silva",Portuguese
+475,Oathbringer,3.1,116.18,59,6854.62,Philosophy,"Lucia Diaz",Uruguay
+507,"The Enchanted Forest",4.0,100.17,67,6711.39,Philosophy,"Andris Bērziņš",Latvian
+23,"Journey to the Magic Kingdom",4.1,93.16,24,2235.84,Art,"Yuki Nakamura",Japanese
+64,"Stress Less: Anxiety Management",4.8,42.67,73,3114.91,Art,"Sofia Ramirez",Colombian
+119,"The Works of Aristotle",4.5,17.03,27,459.81,Art,"Sophie Lefebvre",French
+129,"Election Strategies: Winning the Game",4.3,84.00,66,5544.00,Art,"Lamine Diop",Senegalese
+131,"The Role of International Law",4.0,108.71,43,4674.53,Art,"Sekou Toure",Guinean
+146,"The Enigma Files",4.2,58.31,92,5481.14,Art,"William Brown","Solomon Islander"
+159,"The Unseen Threat",4.0,17.34,35,606.90,Art,"Sofia Bergman",Finnish
+174,"Love Beyond Words",4.0,34.92,38,1257.12,Art,"Ana Martinez",Mexico
+271,"The Secret Path",4.6,112.24,32,3591.68,Art,"Silvija Riekstiņa",Latvian
+301,"Steam-powered Secrets",4.6,83.41,76,6339.16,Art,"Laura Mendez","French Guiana"
+311,"Hoops and Dreams",4.7,17.98,56,1096.78,Art,"Carmen Torres",Spanish
+439,"The Ecology of Commerce",3.7,14.55,63,960.30,Art,"Mia Johnson",Tahitian
+486,"Starry Serenades",2.9,23.58,32,754.56,Art,"Carlos Medina",Barbados
+24,"Realm of Dragons and Sorcery",4.6,105.69,69,6869.85,"Science Fiction Fantasy","Sofia Ivanov",Russian
+87,"Lost Traditions: Forgotten Rituals",4.2,104.08,31,3226.48,"Science Fiction Fantasy","Genghis Bayar",Mongolian
+96,"Traditions Around the World: A Journey in Time",4.6,70.11,55,3295.17,"Science Fiction Fantasy","Andriy Shevchenko",Ukrainian
+327,"Athletic Adventures",4.7,28.50,46,1225.50,"Science Fiction Fantasy","Raul Martinez",Mexican
+342,"Start-up Success",4.7,9.49,15,142.35,"Science Fiction Fantasy","Catalina Santos","British Virgin Islands"
+370,"Sales and Marketing Mastery",4.5,66.40,32,2058.40,"Science Fiction Fantasy","Lorena Duarte",Grenada
+423,"A Course in Miracles",3.1,116.93,81,9237.47,"Science Fiction Fantasy","Kazuki Tanaka",Japanese
+470,"Mistborn: The Final Empire",3.6,43.92,51,2152.08,"Science Fiction Fantasy","Chinwe Okoro",Nigerian
+25,"Quest for the Crystal Chalice",4.2,112.98,36,4858.14,Psychology,"Matthias Schmidt",German
+120,"Exploring Plato's Dialogues",4.8,67.33,27,1750.58,Psychology,"Lorenzo Rossi",Italian
+238,"The Art of Forgiveness",4.5,57.41,47,2698.27,Psychology,"Lamine Diop",Senegalese
+257,"Moonlit Whispers",4.6,102.26,62,6340.12,Psychology,"Anish Choudhury",Bangladeshi
+309,"Champion's Playbook",4.6,42.75,41,1752.75,Psychology,"Natasha Patel",Indian
+391,"Digital Marketing Strategies for Success",4.8,89.96,49,4408.04,Psychology,"Sophie Lefebvre",French
+426,"The Sixth Extinction",3.9,63.38,48,2598.58,Psychology,"Pablo Diaz",Chilean
+438,Collapse,3.8,72.62,74,5301.26,Psychology,"Helena Niemi",Finnish
+492,"Stardust Verses",3.5,37.11,25,1187.52,Psychology,"Petr Novak",Czech
+504,"Mystery in Candyland",4.3,90.61,49,4530.50,Psychology,"Ahmed Hussein",Egyptian
+26,"Secrets of the Celestial Stars",4.5,104.89,53,5559.17,Music,"Catarina Silva",Portuguese
+154,"Suspicion and Shadows",4.5,64.26,50,3020.22,Music,"Jacob Robinson",Kiribati
+234,"Eternal Sunshine",4.7,112.18,48,5609.00,Music,"Matthias Müller",German
+239,"The Last Embrace",4.7,43.43,108,4777.30,Music,"Isabella Rossi",Italian
+428,"A Sand County Almanac",3.7,35.30,48,1694.40,Music,"Tove Hansen",Swedish
+464,"The Wise Man's Fear",3.2,21.12,55,1203.84,Music,"Ville Jokinen",Finnish
+476,Edgedancer,3.0,56.71,49,2778.79,Music,"Genghis Bayar",Mongolian
+513,"The Magic Paintbrush",3.5,53.20,63,3404.80,Music,"Eleni Papadopoulos",Greek
+27,"The Mystic Chronicles",4.7,7.21,65,504.70,Business,"Ahmed Hussein",Egyptian
+78,"Exploring the Unknown: Deep Space Discoveries",4.6,83.43,48,4004.64,Business,"Ananya Gupta",Indian
+126,"Democracy and Its Challenges",4.2,69.35,57,3883.60,Business,"Kwame Osei",Ghanaian
+178,"Web of Deceit",4.1,29.99,18,659.78,Business,"Isabel Gonzalez",Guatemala
+218,"Island Hopping in Southeast Asia",4.8,50.07,45,2253.15,Business,"Sofia Soto",Aruba
+247,"Eternal Love",4.7,68.69,67,4258.78,Business,"Sofia Bergman",Finnish
+248,"Whispers in the Dark",4.8,27.35,41,1121.35,Business,"Ana Silva",Portuguese
+259,"Crimson Hearts",4.6,82.65,25,2066.25,Business,"William Brown","Solomon Islander"
+298,"Empire of Gears",4.7,98.05,30,2941.50,Business,"Andris Bērziņš",Latvian
+299,"The Airship Adventurer",4.6,22.94,43,986.42,Business,"Amina Ndiaye",Senegalese
+316,"Wrestling Warriors",4.6,65.10,52,2929.50,Business,"Emma Ramirez","Falkland Islands"
+318,"Baseball Magic",4.6,68.47,69,4519.02,Business,"Anders Petersen",Swedish
+341,"The Art of Negotiation",4.6,66.84,46,3074.64,Business,"Lucia Morales",Spanish
+499,"Eternal Echoes Pt. II",3.9,93.45,58,5046.30,Business,"Laura Torres",Ecuador
+499,"Eternal Echoes Pt. II",3.9,93.45,58,5046.30,Business,"Natalia Cruz","Saint Kitts and Nevis"
+509,"Charlie and the Color Factory",3.9,74.22,40,2968.80,Business,"Fatou Sow",Senegalese
+28,"The Lost Artifact of Time",4.3,38.74,46,1782.04,Health,"Léa Dupuis",French
+65,"Resilience: Bouncing Back Stronger",4.7,111.13,43,5445.37,Health,"Andres Sanchez",Peruvian
+125,"Transcendental Ideals: Kant's Legacy",4.7,105.64,26,1690.24,Health,"Marie-Claire Dubois",French
+157,"In the Shadows",4.4,71.44,37,2643.28,Health,"Maja Jansson",Swedish
+179,"Unsolved Mysteries",4.3,90.06,69,5673.78,Health,"Ricardo Ramirez",Honduras
+186,"Twisted Plots",4.1,26.37,75,1766.79,Health,"Lucia Diaz",Uruguay
+189,"Killer Instinct",4.0,36.36,41,1490.76,Health,"Andres Gomez",Cuba
+196,"Baking Basics: A Step-By-Step Guide",4.4,48.90,57,2836.20,Health,"Carlos Medina",Barbados
+217,"Road Tripping Across the USA",4.6,7.74,50,387.00,Health,"Roberto Rodriguez",Surinam
+263,"Silent Echoes",4.5,61.03,55,3417.68,Health,"Sophie Lefebvre",French
+348,"Entrepreneurial Excellence",4.7,100.06,41,4202.52,Health,"Rafael Santos",Brazilian
+375,"Financial Strategies for Success",4.6,97.54,61,5949.94,Health,"Pedro Silva",Venezuela
+400,"The Guru Granth Sahib",3.3,60.54,37,2361.06,Health,"Marie Dupont",French
+495,"Celestial Rhymes",3.8,24.38,41,999.58,Health,"Marta López",Mexican
+29,"The Odyssey of the Space Explorers",4.6,21.01,46,882.42,Politics,"Rajesh Kapoor",Indian
+62,"Healthy Aging: Fountain of Youth",4.6,57.83,59,3007.16,Politics,"Camila Hernandez",Mexican
+139,"The Art of Diplomacy",4.4,112.71,62,7213.44,Politics,"Moussa Sissoko",Malian
+175,"Cherished Dreams",4.2,10.88,57,620.16,Politics,"Diego Fernandez",Chile
+192,"Quick and Easy Weeknight Dinners",4.5,10.70,62,663.40,Politics,"Miguel Fernandez",Guyana
+293,"Aether Alchemy",4.8,63.03,64,4033.92,Politics,"Sofia Bergman",Finnish
+293,"Aether Alchemy",4.8,63.03,64,4033.92,Politics,"Oskar Eriksson",Swedish
+302,"Clockwork Conquests",4.7,77.61,55,4268.55,Politics,"Alejandro Ortega","Sint Maarten"
+331,"Mountain Climbing Chronicles",4.6,71.05,51,3978.80,Politics,"Carlos Martínez",Spanish
+331,"Mountain Climbing Chronicles",4.6,71.05,51,3978.80,Politics,"Amina Ndiaye",Senegalese
+379,"The Lean Startup Guide",4.8,108.98,37,4032.26,Politics,"Hiroshi Tanaka",Japanese
+425,"Silent Spring",4.0,38.45,45,1768.70,Politics,"Antonia Rivera",Curacao
+510,"Dinosaur Detective",3.8,91.61,36,3297.96,Politics,"Oliver Wilson",British
+30,"Tales of the Enchanted Forest",4.4,51.40,32,1644.80,Education,"Carlos López",Mexican
+209,"Soul Food Favorites",4.7,95.66,27,2391.50,Education,"Catalina Santos","British Virgin Islands"
+244,"Twisted Truths",4.6,57.18,18,1029.24,Education,"Anna Nowak",Polish
+344,"Business Innovation",4.7,116.94,58,7133.34,Education,"Maria Garcia",Spanish
+31,"Nordic Mysteries: A Journey Through Scandinavia",4.5,113.35,31,3513.85,Technology,"Giorgio Rossi",Italian
+149,"Whodunit Mysteries",4.3,28.43,34,1023.48,Technology,"Mia Johnson",Tahitian
+336,"Surfing Secrets",4.8,83.14,44,4073.86,Technology,"Anders Petersen",Swedish
+346,"The MBA Mindset",4.5,104.22,28,2918.16,Technology,"Pedro Silva",Venezuela
+346,"The MBA Mindset",4.5,104.22,28,2918.16,Technology,"Antonio Suarez","Saint Lucia"
+358,"Business Planning",4.5,26.10,57,1539.90,Technology,"Ana Silva",Portuguese
+402,"The Book of Shadows",3.1,103.96,35,2702.96,Technology,"Isabel Martinez",Spanish
+436,"The Uninhabitable Earth",4.0,97.64,63,6151.32,Technology,"Vicente Castro",Aruba
+519,"The Daring Adventures of Lucy",3.0,25.72,37,1080.24,Technology,"Miguel Rodríguez",Mexican
+32,"Tales of Icelandic Legends",4.4,105.57,60,6334.20,Environment,"Mette Nielsen",Danish
+58,"Organize Your Space and Life",4.6,45.98,35,1609.30,Environment,"Eleni Papadopoulos",Greek
+66,"Exploring the Cosmos: A Journey to the Stars",4.6,72.84,52,4006.20,Environment,"Isabella Lopez",Argentinian
+148,"The Detective's Dilemma",4.1,81.16,40,2921.76,Environment,"Lucas Wilson",Vanuatu
+172,"Unforgettable Moments",4.4,36.34,41,1489.94,Environment,"Maria Lopez",Colombia
+183,"Dangerous Pursuits",4.3,60.81,44,2675.64,Environment,"Daniel Rodriguez",Nicaragua
+249,"The Untold Journey",4.6,79.57,86,6843.02,Environment,"Andrea Bianchi",Italian
+250,"Ghosts of the Past",4.5,103.82,31,3218.42,Environment,"Luisa Vargas",Suriname
+269,"The Whispering Pines",4.5,30.80,29,893.20,Environment,"Ville Jokinen",Finnish
+324,"Track and Field Triumphs",4.7,24.61,72,1821.14,Environment,"Ella White",Samoa
+365,"Investment Strategies",4.6,106.55,44,5007.85,Environment,"Giovanni Bianchi",Italian
+432,"The Water Will Come",3.3,98.26,41,4028.66,Environment,"Hiroshi Tanaka",Japanese
+33,"The Arctic Expedition Chronicles",4.6,55.13,41,2260.33,Sports,"Irina Petrova",Russian
+77,"The Space Traveler's Guide: Interstellar Adventures",4.8,108.49,52,5641.48,Sports,"Akihiko Tanaka",Japanese
+101,"Traditions Preserved: A Window to History",4.7,70.76,43,2335.08,Sports,"Irena Kowalczyk",Polish
+118,"Critical Theories: Debating Perspectives",4.7,80.36,50,3455.48,Sports,"Matthias Müller",German
+187,"Deadly Investigations",4.4,63.45,17,888.30,Sports,"Ella White",Samoa
+187,"Deadly Investigations",4.4,63.45,17,888.30,Sports,"Roberto Castro","Puerto Rico"
+203,"Mexican Fiesta: Tacos, Salsas, and More",4.4,22.80,75,1710.00,Sports,"Gloria Jimenez","The Bahamas"
+221,"Backpacking Adventures in South America",4.6,119.00,93,10591.00,Sports,"Nina Petrova",Bulgarian
+255,"The Hidden Truth",4.7,82.72,56,4466.88,Sports,"Jacob Robinson",Kiribati
+278,"The Dancing Leaves",4.6,66.92,46,3145.24,Sports,"Paula Perez",Bolivia
+284,"Steam and Shadows",4.6,19.10,26,496.60,Sports,"Ana Martinez",Mexico
+321,"Kickboxing Techniques",4.7,52.97,46,2436.62,Sports,"Amina Ndiaye",Senegalese
+325,"Surfing Safaris",4.6,16.16,48,694.88,Sports,"Anders Petersen",Swedish
+369,"Business Ethics and Sustainability",4.6,100.25,45,4511.25,Sports,"Kwesi Mensah",Ghanaian
+405,"The Tibetan Book of the Dead",3.9,76.29,33,2517.57,Sports,"Jing Li",Chinese
+463,"The Name of the Wind",3.3,58.84,25,1471.00,Sports,"Elena Popescu",Romanian
+473,"The Way of Kings",3.3,86.69,54,4421.19,Sports,"Liam Smith","New Zealander"
+494,"Inkwell Melodies",3.7,106.76,18,2348.72,Sports,"Lucia Diaz",Uruguay
+34,"Legends of the Northern Lights",4.3,10.35,65,734.85,Comics,"Andres Martinez",Mexican
+90,"Customs and Beliefs: A Global Perspective",4.8,72.03,41,3457.44,Comics,"Dong Hoang",Vietnamese
+112,"Existentialism and Freedom",4.3,100.64,39,3924.96,Comics,"Valdis Salmiņš",Latvian
+152,"Cryptic Clues",4.0,52.02,73,3745.44,Comics,"Noah Clark","New Caledonian"
+176,"Deadly Secrets",4.2,76.92,25,1923.00,Comics,"Laura Torres",Ecuador
+216,"Hidden Gems of Europe",4.7,41.08,23,1191.32,Comics,"Julia Fernandez",Guyane
+223,"Exploring the Australian Outback",4.8,71.97,37,2662.89,Comics,"Catarina Silva",Portuguese
+237,"Echoes of Eternity",4.6,43.40,80,3124.80,Comics,"Ahmed Ali",Egyptian
+297,"Steampunk Sorcery",4.5,82.89,54,4641.84,Comics,"Jing Li",Chinese
+350,"The Lean Startup",4.7,13.79,47,648.13,Comics,"Aksel Olsen",Norwegian
+361,"Leadership in a Digital Age",4.8,92.28,80,6828.72,Comics,"Natalia Cruz","Saint Kitts and Nevis"
+384,"Leadership Insights from Successful CEOs",4.7,110.80,57,6315.60,Comics,"Sara Andersson",Swedish
+482,"Whispers in the Breeze",2.5,118.15,69,8270.50,Comics,"Lucas Wilson",Vanuatu
+497,"Midnight Musings",4.0,90.80,50,4540.00,Comics,"Erik Hansen",Danish
+35,"The Viking Sagas: Warriors of the North",4.7,22.98,15,275.76,Manga,"Hui Li",Chinese
+117,"The Philosophy of Ethics",4.4,32.54,50,1627.00,Manga,"Elena Rodriguez",Spanish
+164,"Whispers of Love",4.3,115.58,20,2311.60,Manga,"Ville Jokinen",Finnish
+323,"Hockey Heroes",4.5,94.98,39,4274.10,Manga,"Isabella Lopez",Argentinian
+353,"Supply Chain Strategies",4.6,33.09,29,959.61,Manga,"Valeria Chavez",Belize
+394,"The Holy Bible",3.9,115.65,43,4626.00,Manga,"Giovanni Bianchi",Italian
+36,"Fjords and Fairytales",4.2,16.08,71,1141.68,"Graphic Novel","Sara Andersson",Swedish
+98,"Global Rituals: Customs and Celebrations",4.7,92.75,58,5379.50,"Graphic Novel","Mateusz Nowak",Polish
+127,"Global Diplomacy: A New Era",4.1,37.40,47,1757.80,"Graphic Novel","Amina Ndiaye",Senegalese
+343,"Economic Empowerment",4.8,110.31,47,4743.33,"Graphic Novel","Oliver Wilson",British
+355,"Leadership Principles",4.8,85.49,47,4018.03,"Graphic Novel","Lucas Santos",Brazilian
+416,"The Book of Kells",3.8,118.98,51,6067.98,"Graphic Novel","Lucie Kovarova",Czech
+437,"The Overstory",3.9,19.11,35,668.85,"Graphic Novel","Antonio Suarez","Saint Lucia"
+518,"The Space Adventures of Ziggy",3.0,21.00,43,903.00,"Graphic Novel","Luisa Rodrigues",Portuguese
+37,"The Northern Enchantment",4.8,67.95,46,3125.70,Reference,"Juan Rodriguez",Mexican
+37,"The Northern Enchantment",4.8,67.95,46,3125.70,Reference,"Ville Jokinen",Finnish
+245,"The Silent Scream",4.5,73.15,31,2340.80,Reference,"Carmen Torres",Spanish
+270,"A Castle in the Sky",4.7,37.10,39,1446.90,Reference,"Ana Silva",Portuguese
+374,"Business Growth Strategies",4.7,101.03,60,6769.01,Reference,"Andreas Wagner",German
+431,"Cadillac Desert",3.4,61.18,52,3181.36,Reference,"Javier González",Spanish
+515,"The Little Train That Could",3.3,92.85,36,2971.20,Reference,"Jānis Pētersons",Latvian
+38,"Tales of the Sami Reindeer Herders",4.4,74.35,9,669.15,Spirituality,"Kostas Papadopoulos",Greek
+51,"Living with Purpose and Passion",4.5,66.68,36,2400.48,Spirituality,"Giovanni Bianchi",Italian
+55,"Happiness in Everyday Life",4.7,21.68,33,715.44,Spirituality,"Yan Wei",Chinese
+81,"The Milky Way: Our Cosmic Neighborhood",4.4,79.66,31,2469.46,Spirituality,"Yusuf Erdogan",Turkish
+89,"The Art of Tradition: Celebrations Worldwide",4.4,17.58,62,1089.96,Spirituality,"Mei Watanabe",Japanese
+106,"The Philosophy of Existence",4.5,56.61,19,1018.98,Spirituality,"Andris Bērziņš",Latvian
+304,"The Clockwork Chronicles",4.5,111.29,34,4785.47,Spirituality,"Matthias Müller",German
+315,"Run to Win",4.7,102.42,59,6042.78,Spirituality,"Jakub Nowak",Polish
+413,"The Gnostic Gospels",3.1,99.77,55,5587.12,Spirituality,"Akihiko Tanaka",Japanese
+508,"Adventures of Captain Sunshine",4.0,31.86,48,1529.28,Spirituality,"Miroslav Hrbek",Czech
+39,"Scandinavian Folklore and Myths",4.6,117.22,35,4571.58,"Science Fiction Romance","Maria Garcia",Spanish
+85,"Interplanetary Dreams: The Future of Space Travel",4.7,109.54,51,5586.54,"Science Fiction Romance","Natasha Patel",Indian
+144,"Social Movements and Change",4.5,56.58,81,4526.40,"Science Fiction Romance","Oliver Turner",Tongan
+162,"Summer of Romance",4.4,41.96,9,587.44,"Science Fiction Romance","Oskar Eriksson",Swedish
+291,"City of Steam",4.7,86.18,72,6377.32,"Science Fiction Romance","Santiago Rosales",Bermuda
+388,"Business Growth Strategies for the 21st Century",4.5,8.53,29,247.37,"Science Fiction Romance","Sofia Soto",Aruba
+420,"The Essential Rumi",3.4,115.37,45,5191.65,"Science Fiction Romance","Anastasia Papadopoulos",Greek
+427,"Desert Solitaire",3.8,35.77,23,786.94,"Science Fiction Romance","Andres Sanchez",Peruvian
+429,"The Lorax",3.6,79.00,27,2212.00,"Science Fiction Romance","Rafael Gomez","Antigua and Barbuda"
+490,"Whispers of Dreams",3.3,47.86,44,2105.84,"Science Fiction Romance","Andres Martinez",Mexican
+40,"Legends of the Baltic Sea",4.1,118.97,59,7376.14,"Urban Fantasy","Jakub Nowak",Polish
+68,"The Great Space Odyssey: Humans on Mars",4.7,99.41,48,4175.22,"Urban Fantasy","Ana Fernandez",Mexican
+70,"Stellar Phenomena: Mysteries of the Universe",4.8,73.97,62,3994.38,"Urban Fantasy","Carmen Torres",Spanish
+128,"Political Ideologies: A Comparative Study",4.5,65.12,35,2409.44,"Urban Fantasy","Chinwe Okoro",Nigerian
+143,"Environmental Policy Challenges",4.1,55.73,56,3176.61,"Urban Fantasy","Isabella Davies",Fijian
+156,"Twisted Tales",4.1,33.55,23,771.65,"Urban Fantasy","Erik Hansen",Danish
+171,"Romantic Getaways",4.1,16.78,22,369.16,"Urban Fantasy","Luis Rodriguez",Argentina
+227,"Historical European Cities",4.5,119.32,24,2863.68,"Urban Fantasy","Matthias Schmidt",German
+290,"Cogwheels and Corsets",4.5,66.91,24,2475.67,"Urban Fantasy","Andres Gomez",Cuba
+320,"Sailing to Victory",4.6,106.61,27,2878.47,"Urban Fantasy","Liam Smith","New Zealander"
+340,"Financial Freedom",4.5,31.37,42,1286.17,"Urban Fantasy","Emily Johnson",British
+41,"The Whispering Woods of Norway",4.5,110.38,59,6181.28,Western,"Oliver Wilson",British
+71,"Alien Worlds: Exploring Exoplanets",4.5,60.46,38,2176.56,Western,"Pablo Diaz",Chilean
+236,"Unbreakable Bonds",4.8,100.50,63,6432.00,Western,"Jean-Pierre Dupont",French
+275,"The Enchanted Lake",4.8,68.66,33,2265.78,Western,"Maria Ivanova",Russian
+283,"The Brass Conspiracies",4.7,106.29,66,7015.14,Western,"Franz Müller",German
+408,"The Upanishads",3.6,59.08,31,1831.48,Western,"Nadia Zaman",Bangladeshi
+465,"The Slow Regard of Silent Things",3.1,69.31,51,3465.50,Western,"Hui Li",Chinese
+487,"Golden Sonnets",3.0,69.95,32,2518.20,Western,"Silvija Riekstiņa",Latvian
+487,"Golden Sonnets",3.0,69.95,32,2518.20,Western,"Antonia Rivera",Curacao
+42,"Tales from the Finnish Sauna",4.6,63.36,35,2217.60,Dystopian,"Isabella Rossi",Italian
+161,"Love in Paris",4.2,59.08,16,945.28,Dystopian,"Ingrid Sørensen",Danish
+202,"Classic French Cuisine",4.9,67.43,38,3169.21,Dystopian,"Santiago Rosales",Bermuda
+205,"Thai Street Food Adventures",4.7,88.02,32,3168.72,Dystopian,"Camila Silva","Cayman Islands"
+224,"Northern Lights: A Journey to the Arctic",4.7,80.53,19,1449.54,Dystopian,"Irena Kowalczyk",Polish
+371,"Supply Chain Management",4.6,25.31,40,1012.40,Dystopian,"Franz Müller",German
+372,"Marketing for Entrepreneurs",4.7,107.23,68,8363.94,Dystopian,"Oliver Wilson",British
+401,"The Tao Te Ching",3.2,13.50,41,553.50,Dystopian,"Helena Niemi",Finnish
+455,Collapse,3.1,114.25,53,5941.00,Dystopian,"Sofia Soto",Aruba
+43,"Nordic Cuisine: Flavors of the North",4.7,101.33,27,1925.27,"Chick Lit","Takashi Yamamoto",Japanese
+67,"Astrobiology and the Search for Extraterrestrial Life",4.3,52.55,72,3783.60,"Chick Lit","Diego Perez",Spanish
+80,"Beyond Earth: Colonizing the Moon and Mars",4.7,87.45,38,3323.10,"Chick Lit","Nadia Zaman",Bangladeshi
+116,"A History of Philosophy",4.6,79.01,31,2449.31,"Chick Lit","Jean-Pierre Dupont",French
+177,"The Silent Witness",4.4,111.40,30,3342.00,"Chick Lit","Pedro Silva",Venezuela
+193,"The Ultimate BBQ Guide",4.8,91.19,37,3374.03,"Chick Lit","Adriana Perez","Trinidad and Tobago"
+241,"Beyond the Horizon",4.9,62.22,51,3173.22,"Chick Lit","Chidinma Eze",Nigerian
+329,"Fitness Fundamentals",4.8,47.61,49,2237.67,"Chick Lit","Katerina Dimitrova",Bulgarian
+453,"The Uninhabitable Earth",3.3,43.69,35,1529.15,"Chick Lit","Sofia Morales","El Salvador"
+485,"Ethereal Poems",2.8,34.42,30,1032.60,"Chick Lit","Matthias Müller",German
+520,"The Mystery of the Missing Cookie",3.0,75.41,67,5052.47,"Chick Lit","Luisa Vargas",Suriname
+44,"The Mystical Lapland",4.3,89.93,60,5395.80,Erotica,"Elena Petrov",Russian
+53,"Healthy Cooking Made Easy",4.6,36.39,62,2147.01,Erotica,"Maria Ivanova",Russian
+103,"Cultural Cornerstones: Practices and Customs",4.6,14.65,54,761.80,Erotica,"Lucie Kovarova",Czech
+188,"Criminal Minds",4.3,54.10,37,1839.40,Erotica,"Silvia Ortega","Dominican Republic"
+288,"Clockwork Chronicles",4.8,57.41,52,3387.19,Erotica,"Sophie Lefebvre",French
+461,"The Secret Garden",3.5,93.59,39,3650.01,Erotica,"Akihiko Tanaka",Japanese
+517,"Little Red Riding Hood Reimagined",3.1,103.21,36,3715.56,Erotica,"Līga Kalniņa",Latvian
+45,"Journey to the Sami Lands",4.8,112.93,43,4291.34,Paranormal,"Franz Müller",German
+100,"Traces of Tradition: Cultural Legacies",4.8,57.42,39,2239.38,Paranormal,"Petr Novak",Czech
+135,"Leadership in a Changing World",4.5,43.73,47,2230.23,Paranormal,"Isaac Wanjohi",Kenyan
+153,"The Mysterious Mansion",4.3,27.93,70,1955.10,Paranormal,"Zoe Turner",Ni-Vanuatu
+165,"A Love Story",4.6,68.45,48,3490.95,Paranormal,"Henrik Lindqvist",Swedish
+235,"The Whispering Shadows",4.6,46.62,43,2004.66,Paranormal,"Mia Haugen",Norwegian
+319,"The Tennis Titan",4.8,87.54,23,2276.04,Paranormal,"Mei Watanabe",Japanese
+319,"The Tennis Titan",4.8,87.54,23,2276.04,Paranormal,"Andris Bērziņš",Latvian
+345,"Financial Strategies",4.6,97.64,51,4979.64,Paranormal,"Raul Martinez",Mexican
+457,"This Changes Everything",3.9,60.91,27,1644.57,Paranormal,"Andres Gomez",Cuba
+500,"Stars and Stanzas",3.8,82.53,53,5034.33,Paranormal,"Elena Pena","Saint Vincent and the Grenadines"
+46,"The Art of Mindful Living",4.6,102.37,24,2559.25,"Time Travel","Sara Fernández",Spanish
+76,"Planetarium: A Visual Tour of Our Solar System",4.5,63.24,14,885.36,"Time Travel","Liu Wei",Chinese
+114,"The Philosophy of Wisdom",4.5,15.24,43,655.32,"Time Travel","Pēteris Auziņš",Latvian
+123,"The Art of Rational Thinking",4.6,34.38,56,1237.68,"Time Travel","Isabel Martinez",Spanish
+142,"Media and Politics: An Examination",4.3,78.06,87,6635.10,"Time Travel","Liam Smith","New Zealander"
+163,"Affairs of the Heart",4.1,100.46,48,4922.54,"Time Travel","Kirsten Andersen",Norwegian
+167,"Tales of Passion",4.0,42.77,12,513.24,"Time Travel","Niklas Andersson",Swedish
+191,"Delicious Desserts for Beginners",4.7,94.45,73,6894.85,"Time Travel","Luisa Vargas",Suriname
+200,"The Art of Sushi",4.7,83.63,54,5268.69,"Time Travel","Antonio Suarez","Saint Lucia"
+201,"Gourmet Grilling Techniques",4.6,99.23,52,5953.80,"Time Travel","Elena Pena","Saint Vincent and the Grenadines"
+222,"Solo Traveler's Guide to Asia",4.5,102.96,45,4839.12,"Time Travel","Camila Silva","Cayman Islands"
+232,"The Enigmatic Mystery",4.5,116.51,52,6524.56,"Time Travel","Sophie Anderson",Australian
+373,"Leadership in Today's World",4.8,34.20,32,1094.40,"Time Travel","Anton Nowak",Polish
+381,"Sales and Negotiation Tactics",4.6,18.79,70,1315.30,"Time Travel","Mette Nielsen",Danish
+397,"The Torah",3.6,29.61,33,1125.18,"Time Travel","Adriana Perez","Trinidad and Tobago"
+434,Walden,3.1,17.34,48,762.96,"Time Travel","Jack Harris",Palauan
+440,"This Changes Everything",3.6,41.84,35,1464.40,"Time Travel","Habiba Diallo",Malian
+480,"Midnight Sonnets",2.3,55.63,70,3894.10,"Time Travel","Chen Wei",Chinese
+496,"Whispers of the Soul",3.9,90.18,45,4058.10,"Time Travel","Lucie Kovarova",Czech
+503,"The Magical Kingdom",4.4,69.55,22,1391.00,"Time Travel","Sophie Anderson",Australian
+47,"Healthy Habits for a Better You",4.3,35.89,66,2440.52,Superhero,"Amina Ali",Egyptian
+69,"Adventures in Zero Gravity",4.4,9.81,76,784.80,Superhero,"Luis Martinez",Mexican
+104,"Living the Legacy: Honoring Our Heritage",4.4,90.81,51,5085.36,Superhero,"Miroslav Hrbek",Czech
+138,"Global Conflict Resolution",4.0,117.66,21,2470.86,Superhero,"Chidinma Eze",Nigerian
+141,"The Politics of Identity",4.5,95.51,44,4202.44,Superhero,"Habiba Diallo",Malian
+141,"The Politics of Identity",4.5,95.51,44,4202.44,Superhero,"Sophie Anderson",Australian
+173,"Eternal Love",4.3,62.35,47,2868.10,Superhero,"Carlos Garcia",Peru
+292,"The Inventors Daughter",4.6,89.25,36,3213.00,Superhero,"Johanna Svensson",Swedish
+376,"Start-up Revolution",4.5,77.13,47,4010.76,Superhero,"Olivia Gomez",Anguilla
+392,"The Lean Startup Method",4.7,60.09,48,2704.05,Superhero,"Lucia Morales",Spanish
+451,Walden,3.5,54.31,45,2443.95,Superhero,"Miguel Ruiz",Mexican
+467,"City of Blades",3.9,83.13,57,5320.32,Superhero,"Jing Li",Chinese
+474,"Words of Radiance",3.2,87.39,34,2971.26,Superhero,"Habiba Diallo",Malian
+48,"Simplify Your Life: Decluttering Guide",4.7,9.95,42,417.90,Steampunk,"Marie Dupont",French
+59,"Living Green: Sustainable Lifestyle",4.3,86.84,75,5644.60,Steampunk,"Ana Silva",Portuguese
+286,"The Gears of Destiny",4.7,119.82,45,4433.34,Steampunk,"Yuki Nakamura",Japanese
+307,"The Winning Shot",4.7,23.08,41,946.28,Steampunk,"Lucia Diaz",Uruguay
+338,"Marketing Mastery",4.7,106.26,75,7969.50,Steampunk,"Ingrid Sørensen",Danish
+347,"Investment Insights",4.6,94.14,35,3294.90,Steampunk,"Ricardo Ramirez",Honduras
+367,"Digital Marketing Strategies",4.8,9.41,19,178.79,Steampunk,"Giovanni Bianchi",Italian
+377,"Leadership Lessons from CEOs",4.6,91.35,51,4841.55,Steampunk,"Pēteris Auziņš",Latvian
+390,"Leadership Excellence",4.7,84.66,59,4994.94,Steampunk,"Helena Niemi",Finnish
+393,"Business Ethics and Social Responsibility",4.6,8.98,59,475.94,Steampunk,"Javier Martinez","Costa Rica"
+460,"Pilgrim at Tinker Creek",3.6,109.99,30,3519.68,Steampunk,"Olivia Gomez",Anguilla

@@ -1,0 +1,543 @@
+book_id,title,publication_date,stock_quantity,avarage_rating,price,genre_name,author_name,nationality
+6,The Time Traveler's Diary,30/03/2022,34,4.6,97.37,Horror,Luisa Rodrigues,Portuguese
+8,Whispers from Another Dimension,10/05/2022,25,4.6,52.23,Adventure,Sophie Dupont,French
+15,Epic Adventures Beyond Time,28/04/2022,35,4.6,106.75,Travel,Chen Wei,Chinese
+18,The Secrets of the Sphinx,15/03/2023,35,4.6,64.94,Poetry,Anastasia Papadopoulos,Greek
+24,Realm of Dragons and Sorcery,15/09/2023,15,4.6,105.69,Science Fiction Fantasy,Sofia Ivanov,Russian
+29,The Odyssey of the Space Explorers,10/02/2024,35,4.6,21.01,Politics,Rajesh Kapoor,Indian
+33,The Arctic Expedition Chronicles,20/10/2022,25,4.6,55.13,Sports,Irina Petrova,Russian
+39,Scandinavian Folklore and Myths,20/04/2022,35,4.6,117.22,Science Fiction Romance,Maria Garcia,Spanish
+42,Tales from the Finnish Sauna,03/01/2022,30,4.6,63.36,Dystopian,Isabella Rossi,Italian
+46,The Art of Mindful Living,15/11/2022,25,4.6,102.37,Time Travel,Sara Fernández,Spanish
+53,Healthy Cooking Made Easy,20/04/2022,35,4.6,36.39,Erotica,Maria Ivanova,Russian
+58,Organize Your Space and Life,10/11/2021,20,4.6,45.98,Environment,Eleni Papadopoulos,Greek
+62,Healthy Aging: Fountain of Youth,30/07/2021,40,4.6,57.83,Politics,Camila Hernandez,Mexican
+66,Exploring the Cosmos: A Journey to the Stars,15/11/2022,30,4.6,72.84,Environment,Isabella Lopez,Argentinian
+73,The Cosmic Journey: From Earth to the Stars,20/04/2022,35,4.6,25.7,Crime,Miguel Ruiz,Mexican
+78,Exploring the Unknown: Deep Space Discoveries,10/11/2021,30,4.6,83.43,Business,Ananya Gupta,Indian
+82,Hubble's Legacy: Capturing the Universe in Images,30/07/2021,30,4.6,84.23,Self-Help,Kazuki Tanaka,Japanese
+91,The Roots of Culture: Ancestral Traditions,10/06/2008,30,4.6,56.82,Travel,Mariusz Kowalski,Polish
+96,Traditions Around the World: A Journey in Time,03/01/2005,25,4.6,70.11,Science Fiction Fantasy,Andriy Shevchenko,Ukrainian
+103,Cultural Cornerstones: Practices and Customs,04/06/2005,20,4.6,14.65,Erotica,Lucie Kovarova,Czech
+111,Metaphysical Musings,10/06/1993,30,4.6,87.78,Adventure,Zane Bērziņa,Latvian
+116,A History of Philosophy,03/05/1992,25,4.6,79.01,Chick Lit,Jean-Pierre Dupont,French
+123,The Art of Rational Thinking,04/05/1994,20,4.6,34.38,Time Travel,Isabel Martinez,Spanish
+133,Revolutionary Movements,30/03/2021,40,4.6,43.04,Science,Mohammed Abubakar,Nigerian
+150,Intriguing Investigations,10/07/2013,50,4.6,69.04,Philosophy,Jack Harris,Palauan
+165,A Love Story,20/07/2017,50,4.6,68.45,Paranormal,Henrik Lindqvist,Swedish
+180,The Chase,10/10/2021,50,4.6,9.82,Fantasy,Sofia Morales,El Salvador
+194,Mouthwatering Mediterranean Cuisine,14/11/2020,30,4.6,95.22,Poetry,Manuel Soto,Haiti
+201,Gourmet Grilling Techniques,22/07/2021,35,4.6,99.23,Time Travel,Elena Pena,Saint Vincent and the Grenadines
+207,Mediterranean Meze and Tapas,15/05/2020,55,4.6,81.35,Cooking,Antonia Rivera,Curacao
+217,Road Tripping Across the USA,15/11/2021,35,4.6,7.74,Health,Roberto Rodriguez,Surinam
+219,African Safari Tales,12/05/2022,25,4.6,18.69,Historical Fiction,Liu Wei,Chinese
+221,Backpacking Adventures in South America,30/09/2021,35,4.6,119,Sports,Nina Petrova,Bulgarian
+226,Scenic Beauty of New Zealand,10/07/2021,30,4.6,78.29,Crime,Lucas Wilson,Vanuatu
+235,The Whispering Shadows,08/12/2022,50,4.6,46.62,Paranormal,Mia Haugen,Norwegian
+237,Echoes of Eternity,25/12/2022,45,4.6,43.4,Comics,Ahmed Ali,Egyptian
+240,Shattered Reflections,15/10/2022,35,4.6,116.65,Cooking,Liam Smith,New Zealander
+242,Fragments of Yesterday,30/09/2022,30,4.6,42.4,Religion,Anna Nowak,Polish
+244,Twisted Truths,05/09/2022,35,4.6,57.18,Education,Anna Nowak,Polish
+249,The Untold Journey,05/11/2022,35,4.6,79.57,Environment,Andrea Bianchi,Italian
+253,Torn Hearts,12/10/2022,35,4.6,39.31,Self-Help,Jean-Pierre Dupont,French
+257,Moonlit Whispers,15/01/2023,40,4.6,102.26,Psychology,Anish Choudhury,Bangladeshi
+259,Crimson Hearts,28/09/2022,25,4.6,82.65,Business,William Brown,Solomon Islander
+262,Whispers in the Wind,18/09/2022,35,4.6,79.46,Romance,Fernando Mendez,Panama
+265,The Captive Heart,10/12/2022,20,4.6,118.36,Thriller,Anders Petersen,Swedish
+267,The Enchanted Forest,08/01/2023,50,4.6,43.82,Crime,Oskar Eriksson,Swedish
+271,The Secret Path,30/10/2022,35,4.6,112.24,Art,Silvija Riekstiņa,Latvian
+274,The Forbidden Love,12/09/2022,30,4.6,11.29,Children's,Sofia Bergman,Finnish
+278,The Dancing Leaves,12/01/2023,30,4.6,66.92,Sports,Paula Perez,Bolivia
+281,Whispers of the Sea,22/12/2022,35,4.6,62.34,Romance,Mikhail Ivanov,Russian
+282,Clockwork Dreams,15/10/2022,30,4.6,100.55,Poetry,Rajesh Kapoor,Indian
+284,Steam and Shadows,28/09/2022,35,4.6,19.1,Sports,Ana Martinez,Mexico
+287,Airship Adventure,05/10/2022,50,4.6,52.7,Fantasy,Ingrid Sørensen,Danish
+289,The Steam Revolution,20/09/2022,25,4.6,106.33,Horror,Kazuki Tanaka,Japanese
+292,The Inventors Daughter,25/10/2022,45,4.6,89.25,Superhero,Johanna Svensson,Swedish
+294,The Mechanical Mage,25/02/2023,30,4.6,82.28,Young Adult,Laura Mendez,French Guiana
+296,The Sky Captain,28/10/2022,40,4.6,38.73,Mystery,Andres Martinez,Mexican
+299,The Airship Adventurer,18/09/2022,40,4.6,22.94,Business,Amina Ndiaye,Senegalese
+301,Steam-powered Secrets,08/12/2022,30,4.6,83.41,Art,Laura Mendez,French Guiana
+303,Steampunk Safari,30/11/2022,40,4.6,98.17,Horror,Miguel Rodríguez,Mexican
+306,Mysteries of the Gears,12/01/2023,30,4.6,24.35,Science,Anna Nowak,Polish
+308,Soccer Legends,15/01/2023,50,4.6,61.83,Philosophy,Catarina Silva,Portuguese
+309,Champion's Playbook,20/01/2023,35,4.6,42.75,Psychology,Natasha Patel,Indian
+314,Victory in Volleyball,05/02/2023,40,4.6,23.62,Science,Ingrid Sørensen,Danish
+316,Wrestling Warriors,25/02/2023,30,4.6,65.1,Business,Emma Ramirez,Falkland Islands
+318,Baseball Magic,08/02/2023,45,4.6,68.47,Business,Anders Petersen,Swedish
+320,Sailing to Victory,28/01/2023,35,4.6,106.61,Urban Fantasy,Liam Smith,New Zealander
+322,Cycling Secrets,15/01/2023,55,4.6,108.5,Cooking,Valdis Salmiņš,Latvian
+325,Surfing Safaris,12/02/2023,40,4.6,16.16,Sports,Anders Petersen,Swedish
+328,Extreme Sports Escapades,18/01/2023,30,4.6,93.63,Adventure,Jana Kovac,Slovak
+331,Mountain Climbing Chronicles,22/01/2023,45,4.6,71.05,Politics,Carlos Martínez,Spanish
+331,Mountain Climbing Chronicles,22/01/2023,45,4.6,71.05,Politics,Amina Ndiaye,Senegalese
+335,Equestrian Excellence,25/02/2023,35,4.6,96.36,Cooking,Yusuf Erdogan,Turkish
+339,Leadership Lessons,18/02/2023,55,4.6,112.67,Horror,Elena Popescu,Romanian
+341,The Art of Negotiation,15/02/2023,40,4.6,66.84,Business,Lucia Morales,Spanish
+345,Financial Strategies,18/03/2023,55,4.6,97.64,Classic,Raul Martinez,Mexican
+345,Financial Strategies,18/03/2023,55,4.6,97.64,Paranormal,Raul Martinez,Mexican
+347,Investment Insights,28/02/2023,40,4.6,94.14,Steampunk,Ricardo Ramirez,Honduras
+351,Business Ethics,12/03/2023,55,4.6,14.49,Travel,Jean-Pierre Dupont,French
+353,Supply Chain Strategies,22/02/2023,40,4.6,33.09,Manga,Valeria Chavez,Belize
+357,Financial Management,10/03/2023,55,4.6,108.87,Mystery,Thabo Ndlovu,South African
+359,Corporate Strategy,15/03/2023,40,4.6,87.65,Classic,Sofia Soto,Aruba
+363,Financial Planning,28/03/2023,55,4.6,50.01,Horror,Petr Novak,Czech
+365,Investment Strategies,22/03/2023,40,4.6,106.55,Environment,Giovanni Bianchi,Italian
+369,Business Ethics and Sustainability,10/03/2023,55,4.6,100.25,Sports,Kwesi Mensah,Ghanaian
+371,Supply Chain Management,15/03/2023,40,4.6,25.31,Dystopian,Franz Müller,German
+375,Financial Strategies for Success,25/03/2023,55,4.6,97.54,Health,Pedro Silva,Venezuela
+377,Leadership Lessons from CEOs,12/02/2023,40,4.6,91.35,Steampunk,Pēteris Auziņš,Latvian
+381,Sales and Negotiation Tactics,12/03/2023,55,4.6,18.79,Time Travel,Mette Nielsen,Danish
+383,Marketing Strategies for Small Businesses,20/03/2023,40,4.6,62.52,Cooking,Chen Wei,Chinese
+387,The Art of Entrepreneurship,18/02/2023,55,4.6,19.3,Thriller,Sofia Soto,Aruba
+389,Investing in Your Future,02/03/2023,40,4.6,19.68,Humor,Andres Gomez,Cuba
+393,Business Ethics and Social Responsibility,05/03/2023,55,4.6,8.98,Steampunk,Javier Martinez,Costa Rica
+3,The Lost City of Atlantis,10/04/2022,29,4.7,77.66,Mystery,Hiroshi Tanaka,Japanese
+12,Legends of the Starry Skies,05/10/2022,40,4.7,77.16,Science,Sven Hansen,Danish
+17,Legends of the Lost Temple,10/02/2023,40,4.7,109.74,Young Adult,Miguel Rodriguez,Mexican
+27,The Mystic Chronicles,30/12/2023,30,4.7,7.21,Business,Ahmed Hussein,Egyptian
+35,The Viking Sagas: Warriors of the North,30/08/2022,40,4.7,22.98,Manga,Hui Li,Chinese
+43,Nordic Cuisine: Flavors of the North,05/12/2021,25,4.7,101.33,Chick Lit,Takashi Yamamoto,Japanese
+48,Simplify Your Life: Decluttering Guide,25/09/2022,20,4.7,9.95,Steampunk,Marie Dupont,French
+55,Happiness in Everyday Life,28/02/2022,40,4.7,21.68,Spirituality,Yan Wei,Chinese
+60,Embrace the Outdoors: Nature Connection,20/09/2021,30,4.7,9.96,Fantasy,Anton Nowak,Polish
+65,Resilience: Bouncing Back Stronger,14/04/2021,25,4.7,111.13,Health,Andres Sanchez,Peruvian
+68,The Great Space Odyssey: Humans on Mars,25/09/2022,35,4.7,99.41,Urban Fantasy,Ana Fernandez,Mexican
+75,Galactic Mysteries: Unraveling the Universe,28/02/2022,30,4.7,64.92,Historical Fiction,Gonzalo Castro,Argentinian
+80,Beyond Earth: Colonizing the Moon and Mars,20/09/2021,35,4.7,87.45,Chick Lit,Nadia Zaman,Bangladeshi
+85,Interplanetary Dreams: The Future of Space Travel,14/04/2021,35,4.7,109.54,Science Fiction Romance,Natasha Patel,Indian
+88,Folklore Chronicles: Tales and Customs,25/09/2009,35,4.7,8.11,Biography,Anish Choudhury,Bangladeshi
+93,Living Traditions: Heritage Preservation,20/04/2009,35,4.7,76.94,Philosophy,Tatiana Novak,Czech
+98,Global Rituals: Customs and Celebrations,10/11/2009,30,4.7,92.75,Graphic Novel,Mateusz Nowak,Polish
+101,Traditions Preserved: A Window to History,25/08/2008,40,4.7,70.76,Sports,Irena Kowalczyk,Polish
+105,World Traditions Explored: Shared Histories,14/04/2006,35,4.7,42.18,Children's,Nina Petrova,Bulgarian
+108,Philosophical Debates: A Critical View,25/08/1992,35,4.7,48.85,Crime,Jānis Pētersons,Latvian
+113,The Quest for Truth,20/12/1991,35,4.7,56.03,Religion,Līga Kalniņa,Latvian
+113,The Quest for Truth,20/12/1991,35,4.7,56.03,Religion,Luis Velazquez,Spanish
+118,Critical Theories: Debating Perspectives,10/06/1995,30,4.7,80.36,Sports,Matthias Müller,German
+121,Metaphysics Unveiled,28/02/1999,40,4.7,20.48,Drama,Ana Silva,Portuguese
+125,Transcendental Ideals: Kant's Legacy,14/04/1996,35,4.7,105.64,Health,Marie-Claire Dubois,French
+191,Delicious Desserts for Beginners,15/04/2022,50,4.7,94.45,Time Travel,Luisa Vargas,Suriname
+197,Spices and Flavors of India,01/07/2019,25,4.7,58.35,Horror,Andrea Bianchi,Italian
+197,Spices and Flavors of India,01/07/2019,25,4.7,58.35,Horror,Lorena Duarte,Grenada
+200,The Art of Sushi,28/05/2021,20,4.7,83.63,Time Travel,Antonio Suarez,Saint Lucia
+205,Thai Street Food Adventures,09/12/2020,30,4.7,88.02,Dystopian,Camila Silva,Cayman Islands
+209,Soul Food Favorites,28/08/2019,35,4.7,95.66,Education,Catalina Santos,British Virgin Islands
+212,Baking with Chocolate: Irresistible Treats,03/07/2020,50,4.7,68.57,Humor,Leonardo Perez,Montserrat
+216,Hidden Gems of Europe,20/12/2021,40,4.7,41.08,Comics,Julia Fernandez,Guyane
+220,Romantic Getaways in Italy,14/08/2021,30,4.7,60.2,Young Adult,Aksel Olsen,Norwegian
+224,Northern Lights: A Journey to the Arctic,20/10/2021,40,4.7,80.53,Dystopian,Irena Kowalczyk,Polish
+228,Adventures in the Amazon Rainforest,15/04/2021,35,4.7,47.73,Drama,Takashi Yamamoto,Japanese
+231,Exploring the Amazon River,15/08/2022,40,4.7,87.84,Fantasy,Ana Silva,Portuguese
+234,Eternal Sunshine,20/02/2023,25,4.7,112.18,Music,Matthias Müller,German
+239,The Last Embrace,10/02/2023,30,4.7,43.43,Music,Isabella Rossi,Italian
+243,Hidden Desires,08/11/2022,40,4.7,29.74,Adventure,Thabo Ndlovu,South African
+247,Eternal Love,01/03/2023,20,4.7,68.69,Business,Sofia Bergman,Finnish
+251,The Broken Promise,15/09/2022,30,4.7,96.63,Horror,Sofia Ramirez,Colombian
+255,The Hidden Truth,22/11/2022,50,4.7,82.72,Sports,Jacob Robinson,Kiribati
+258,The Secret Garden,05/12/2022,35,4.7,82.47,Biography,Ahmed Ali,Egyptian
+261,The Haunting Melody,15/11/2022,45,4.7,27.26,Children's,Zane Bērziņa,Latvian
+264,Stolen Moments,12/08/2022,40,4.7,65.7,Adventure,Helena Niemi,Finnish
+268,Hearts Afire,05/02/2023,40,4.7,11.21,Biography,Maria Ivanova,Russian
+270,A Castle in the Sky,28/01/2023,30,4.7,37.1,Reference,Ana Silva,Portuguese
+273,Eternal Spring,10/11/2022,40,4.7,100.46,Drama,Elena Petrov,Russian
+276,Moonlight Serenade,15/08/2022,25,4.7,60.63,Crime,Léa Dupuis,French
+279,Hearts in Harmony,30/11/2022,45,4.7,23.09,Mystery,Vicente Castro,Aruba
+283,The Brass Conspiracies,18/11/2022,25,4.7,106.29,Western,Franz Müller,German
+286,The Gears of Destiny,30/12/2022,40,4.7,119.82,Steampunk,Yuki Nakamura,Japanese
+291,City of Steam,05/02/2023,35,4.7,86.18,Science Fiction Romance,Santiago Rosales,Bermuda
+295,Clockwork Carnival,15/09/2022,25,4.7,13.09,Science Fiction,Andrea Bianchi,Italian
+298,Empire of Gears,15/02/2023,50,4.7,98.05,Business,Andris Bērziņš,Latvian
+302,Clockwork Conquests,08/09/2022,45,4.7,77.61,Politics,Alejandro Ortega,Sint Maarten
+305,Steam and Sorcery,18/10/2022,55,4.7,114.36,Religion,Julia Fernandez,Guyane
+307,The Winning Shot,10/02/2023,40,4.7,23.08,Steampunk,Lucia Diaz,Uruguay
+311,Hoops and Dreams,20/02/2023,45,4.7,17.98,Art,Carmen Torres,Spanish
+315,Run to Win,12/02/2023,35,4.7,102.42,Spirituality,Jakub Nowak,Polish
+317,Basketball Strategies,05/01/2023,50,4.7,94.46,Drama,Andris Bērziņš,Latvian
+321,Kickboxing Techniques,22/01/2023,30,4.7,52.97,Sports,Amina Ndiaye,Senegalese
+324,Track and Field Triumphs,01/02/2023,50,4.7,24.61,Environment,Ella White,Samoa
+327,Athletic Adventures,10/02/2023,35,4.7,28.5,Science Fiction Fantasy,Raul Martinez,Mexican
+330,Aquatic Achievements,12/01/2023,40,4.7,98.49,Horror,Andres Gomez,Cuba
+332,Martial Arts Mastery,05/02/2023,55,4.7,43.46,Science Fiction,Luis Martinez,Mexican
+334,Snowboarding Stories,18/02/2023,40,4.7,54.27,Children's,Ahmed Hussein,Egyptian
+338,Marketing Mastery,01/02/2023,70,4.7,106.26,Steampunk,Ingrid Sørensen,Danish
+342,Start-up Success,15/03/2023,45,4.7,9.49,Science Fiction Fantasy,Catalina Santos,British Virgin Islands
+344,Business Innovation,10/02/2023,70,4.7,116.94,Education,Maria Garcia,Spanish
+348,Entrepreneurial Excellence,25/03/2023,45,4.7,100.06,Health,Rafael Santos,Brazilian
+350,The Lean Startup,02/03/2023,70,4.7,13.79,Comics,Aksel Olsen,Norwegian
+354,Marketing for Small Businesses,20/03/2023,45,4.7,46.22,Cooking,Naledi Mokoena,South African
+356,The Art of Management,05/02/2023,70,4.7,64.36,Young Adult,Laima Ozoliņa,Latvian
+360,Start-up Stories,28/02/2023,45,4.7,40.94,Adventure,Emma Ramirez,Falkland Islands
+362,Economic Growth,15/02/2023,70,4.7,77.54,Children's,Amina Ndiaye,Senegalese
+366,Entrepreneurial Insights,05/03/2023,45,4.7,43.8,Self-Help,Isabel Gonzalez,Guatemala
+368,The Art of Business,18/02/2023,70,4.7,65.6,Fantasy,Kirsten Andersen,Norwegian
+372,Marketing for Entrepreneurs,28/02/2023,45,4.7,107.23,Dystopian,Oliver Wilson,British
+374,Business Growth Strategies,10/02/2023,70,4.7,101.03,Reference,Andreas Wagner,German
+378,Digital Marketing Trends,02/03/2023,45,4.7,17,Cooking,Mette Nielsen,Danish
+380,Business Culture and Ethics,05/03/2023,70,4.7,38.36,Young Adult,Henrik Lindqvist,Swedish
+384,Leadership Insights from Successful CEOs,18/02/2023,45,4.7,110.8,Comics,Sara Andersson,Swedish
+386,Financial Mastery,25/03/2023,70,4.7,59.24,Romance,Luis Martinez,Mexican
+390,Leadership Excellence,25/02/2023,45,4.7,84.66,Steampunk,Helena Niemi,Finnish
+392,The Lean Startup Method,15/03/2023,70,4.7,60.09,Superhero,Lucia Morales,Spanish
+1,The Starry Chronicles,15/03/2022,42,4.5,54.08,Science Fiction,John Smith,American
+1,The Starry Chronicles,15/03/2022,42,4.5,54.08,Science Fiction,Matthias Schmidt,German
+13,Realm of Eternal Wonder,03/08/2022,30,4.5,72.05,Self-Help,Olga Ivanova,Ukrainian
+19,Voyage to the Underwater Realm,20/04/2023,30,4.5,34.02,Classic,Carlos Martínez,Spanish
+26,Secrets of the Celestial Stars,25/11/2023,40,4.5,104.89,Music,Catarina Silva,Portuguese
+31,Nordic Mysteries: A Journey Through Scandinavia,10/12/2022,20,4.5,113.35,Technology,Giorgio Rossi,Italian
+41,The Whispering Woods of Norway,28/02/2022,40,4.5,110.38,Western,Oliver Wilson,British
+51,Living with Purpose and Passion,10/06/2022,30,4.5,66.68,Spirituality,Giovanni Bianchi,Italian
+56,Achieving Financial Freedom,03/01/2022,30,4.5,72.26,Children's,Hanna Svensson,Swedish
+63,Nourish Your Soul: Self-Care Essentials,04/06/2021,30,4.5,74.29,Travel,Carlos Rodriguez,Mexican
+71,Alien Worlds: Exploring Exoplanets,10/06/2022,30,4.5,60.46,Western,Pablo Diaz,Chilean
+76,Planetarium: A Visual Tour of Our Solar System,03/01/2022,25,4.5,63.24,Time Travel,Liu Wei,Chinese
+83,Space Oddities: Bizarre Phenomena in the Cosmos,04/06/2021,20,4.5,29.29,Crime,Jing Li,Chinese
+86,Cultural Heritage: Ancient Traditions,15/12/2008,30,4.5,106.96,Classic,Jingwen Xie,Chinese
+94,Passing Down Traditions: Generational Wisdom,25/03/2006,40,4.5,85.6,Children's,Vladimir Kuznetsov,Russian
+99,Ancient Rites and Ceremonies: Respecting the Past,15/10/2004,25,4.5,110.24,Crime,Katerina Dimitrova,Bulgarian
+102,Legacy of Rituals: A World of Celebrations,30/07/2007,30,4.5,40.56,Classic,Mikhail Ivanov,Russian
+106,The Philosophy of Existence,15/04/1998,30,4.5,56.61,Spirituality,Andris Bērziņš,Latvian
+114,The Philosophy of Wisdom,30/10/1997,40,4.5,15.24,Time Travel,Pēteris Auziņš,Latvian
+119,The Works of Aristotle,15/01/1992,25,4.5,17.03,Art,Sophie Lefebvre,French
+122,The Philosophy of Science,30/07/1997,30,4.5,50.41,Self-Help,Thomas Fischer,German
+128,Political Ideologies: A Comparative Study,20/11/2022,35,4.5,65.12,Urban Fantasy,Chinwe Okoro,Nigerian
+135,Leadership in a Changing World,03/05/2022,30,4.5,43.73,Paranormal,Isaac Wanjohi,Kenyan
+141,The Politics of Identity,10/03/2022,25,4.5,95.51,Superhero,Habiba Diallo,Malian
+141,The Politics of Identity,10/03/2022,25,4.5,95.51,Superhero,Sophie Anderson,Australian
+144,Social Movements and Change,05/02/2019,40,4.5,56.58,Science Fiction Romance,Oliver Turner,Tongan
+154,Suspicion and Shadows,20/02/2010,40,4.5,64.26,Music,Jacob Robinson,Kiribati
+169,Sunset Serenade,29/04/2016,40,4.5,106.6,Children's,Johan Mikkelsen,Danish
+184,Conspiracy Theories,29/08/2021,40,4.5,113.71,Adventure,Carmen Fernandez,Paraguay
+192,Quick and Easy Weeknight Dinners,03/09/2021,75,4.5,10.7,Politics,Miguel Fernandez,Guyana
+198,Homestyle Italian Cooking,12/02/2020,45,4.5,76.88,Humor,Rafael Gomez,Antigua and Barbuda
+204,Vegan Delights: Plant-Powered Recipes,11/02/2022,50,4.5,60.11,Drama,Joaquin Mendez,Turks and Caicos Islands
+208,Chinese Takeout at Home,05/04/2022,40,4.5,61.43,Humor,Alejandro Ortega,Sint Maarten
+213,The Joy of Baking Bread,25/02/2022,45,4.5,79.08,Drama,Emma Ramirez,Falkland Islands
+214,Exploring the Andes: A Hiker's Guide,10/08/2022,30,4.5,70.04,Young Adult,Felipe Torres,South Georgia and the South Sandwich Islands
+222,Solo Traveler's Guide to Asia,25/01/2022,25,4.5,102.96,Time Travel,Camila Silva,Cayman Islands
+227,Historical European Cities,09/02/2022,45,4.5,119.32,Urban Fantasy,Matthias Schmidt,German
+229,The Serengeti Wildlife Expedition,28/04/2022,25,4.5,66.18,Horror,Carlos Garcia,Peru
+232,The Enigmatic Mystery,05/01/2023,30,4.5,116.51,Time Travel,Sophie Anderson,Australian
+238,The Art of Forgiveness,20/11/2022,40,4.5,57.41,Psychology,Lamine Diop,Senegalese
+245,The Silent Scream,28/10/2022,25,4.5,73.15,Reference,Carmen Torres,Spanish
+250,Ghosts of the Past,05/10/2022,40,4.5,103.82,Environment,Luisa Vargas,Suriname
+254,Reflections of Hope,08/09/2022,40,4.5,8.3,Humor,Alejandro Ortega,Sint Maarten
+263,Silent Echoes,28/10/2022,30,4.5,61.03,Health,Sophie Lefebvre,French
+269,The Whispering Pines,25/02/2023,45,4.5,30.8,Environment,Ville Jokinen,Finnish
+272,The Hidden Treasures,20/09/2022,25,4.5,64.05,Humor,Chen Wei,Chinese
+277,Echoes of the Heart,10/09/2022,40,4.5,20.8,Science,Chidinma Eze,Nigerian
+285,Machines of Magic,05/01/2023,45,4.5,82.72,Young Adult,Javier Martinez,Costa Rica
+290,Cogwheels and Corsets,08/11/2022,40,4.5,66.91,Urban Fantasy,Andres Gomez,Cuba
+297,Steampunk Sorcery,22/11/2022,35,4.5,82.89,Comics,Jing Li,Chinese
+304,The Clockwork Chronicles,25/08/2022,25,4.5,111.29,Spirituality,Matthias Müller,German
+310,Beyond the Finish Line,30/01/2023,30,4.5,64.39,Cooking,Lamine Diop,Senegalese
+313,The Soccer Star,25/01/2023,55,4.5,105.98,Classic,Jacob Robinson,Kiribati
+323,Hockey Heroes,18/02/2023,30,4.5,94.98,Manga,Isabella Lopez,Argentinian
+326,Powerlifting Prodigies,30/01/2023,45,4.5,68.81,Young Adult,Rafael Gomez,Antigua and Barbuda
+333,Gymnastics Greatness,05/01/2023,30,4.5,86.97,Poetry,Andres Gomez,Cuba
+340,Financial Freedom,10/03/2023,50,4.5,31.37,Urban Fantasy,Emily Johnson,British
+346,The MBA Mindset,28/03/2023,50,4.5,104.22,Technology,Antonio Suarez,Saint Lucia
+346,The MBA Mindset,28/03/2023,50,4.5,104.22,Technology,Pedro Silva,Venezuela
+352,Sales Success,08/03/2023,50,4.5,26.45,Horror,Vladimir Kuznetsov,Russian
+358,Business Planning,25/02/2023,50,4.5,26.1,Technology,Ana Silva,Portuguese
+364,The MBA Handbook,10/02/2023,50,4.5,91.21,Historical Fiction,Lucia Diaz,Uruguay
+370,Sales and Marketing Mastery,15/02/2023,50,4.5,66.4,Science Fiction Fantasy,Lorena Duarte,Grenada
+376,Start-up Revolution,22/03/2023,50,4.5,77.13,Superhero,Olivia Gomez,Anguilla
+382,Strategic Supply Chain Management,05/02/2023,50,4.5,104.68,Mystery,Ismail Al-Mansoori,Emirati
+388,Business Growth Strategies for the 21st Century,12/02/2023,50,4.5,8.53,Science Fiction Romance,Sofia Soto,Aruba
+502,The Adventure of Mr. Teddy Bear,01/06/2023,80,4.5,118.46,Drama,Inese Sīmane,Latvian
+2,Secrets of the Enchanted Forest,20/05/2022,39,2.8,81.09,Fantasy,Maria García,Spanish
+4,Journey to the Cosmic Frontier,25/06/2022,57,4.4,44.41,Romance,Elena Kalashnikov,Russian
+5,The Quest for Eternal Wisdom,12/02/2022,18,4.3,29.89,Thriller,Lucas Müller,German
+7,Infinite Realms of Imagination,18/08/2022,5,5,104.11,Drama,Ahmed Ali,Egyptian
+9,The Island of Forgotten Dreams,22/07/2022,45,4.2,21.87,Biography,Amit Patel,Indian
+10,Voyage to the End of the Universe,01/11/2022,30,4.8,8.1,Historical Fiction,Marta López,Mexican
+11,Chronicles of the Galactic Heroes,14/09/2022,14,4.4,45.33,Crime,Andrea Bianchi,Italian
+14,Mysteries of the Quantum Realm,12/07/2022,25,4.2,116.33,Cooking,Rafael Santos,Brazilian
+16,The Enchanted Kingdom,05/01/2023,20,4.3,37.38,Children's,Johanna Svensson,Swedish
+20,Chronicles of the Hidden Scrolls,25/05/2023,45,4.2,98.43,Humor,Anna Nowak,Polish
+21,Epic Adventures of the Brave Knight,30/06/2023,25,4.4,51.84,Religion,Emily Johnson,British
+22,Mysteries of the Forest Elves,05/07/2023,50,4.8,47.04,Philosophy,Ricardo Fernandez,Spanish
+23,Journey to the Magic Kingdom,10/08/2023,30,4.1,93.16,Art,Yuki Nakamura,Japanese
+25,Quest for the Crystal Chalice,20/10/2023,35,4.2,112.98,Psychology,Matthias Schmidt,German
+28,The Lost Artifact of Time,05/01/2024,25,4.3,38.74,Health,Léa Dupuis,French
+30,Tales of the Enchanted Forest,15/03/2024,20,4.4,51.4,Education,Carlos López,Mexican
+32,Tales of Icelandic Legends,15/11/2022,29,4.4,105.57,Environment,Mette Nielsen,Danish
+34,Legends of the Northern Lights,25/09/2022,35,4.3,10.35,Comics,Andres Martinez,Mexican
+36,Fjords and Fairytales,05/07/2022,30,4.2,16.08,Graphic Novel,Sara Andersson,Swedish
+37,The Northern Enchantment,10/06/2022,15,4.8,67.95,Reference,Ville Jokinen,Finnish
+37,The Northern Enchantment,10/06/2022,15,4.8,67.95,Reference,Juan Rodriguez,Mexican
+38,Tales of the Sami Reindeer Herders,15/05/2022,25,4.4,74.35,Spirituality,Kostas Papadopoulos,Greek
+40,Legends of the Baltic Sea,25/03/2022,30,4.1,118.97,Urban Fantasy,Jakub Nowak,Polish
+44,The Mystical Lapland,10/11/2021,20,4.3,89.93,Erotica,Elena Petrov,Russian
+45,Journey to the Sami Lands,15/10/2021,15,4.8,112.93,Paranormal,Franz Müller,German
+47,Healthy Habits for a Better You,20/10/2022,30,4.3,35.89,Superhero,Amina Ali,Egyptian
+49,Finding Balance: Work and Life,30/08/2022,40,4.4,107.44,Historical Fiction,Vikram Kapoor,Indian
+50,The Joy of Minimalism,05/07/2022,35,4.8,51.95,Crime,Miguel Rodríguez,Mexican
+52,Mindful Parenting: Raising Happy Kids,15/05/2022,25,4.2,55.63,Romance,Lise Andersen,Danish
+54,The Power of Positivity,25/03/2022,30,4.4,85.57,Adventure,Lucas Santos,Brazilian
+57,The Well-Being Revolution,05/12/2021,25,4.8,119.29,Children's,Raul Martinez,Mexican
+59,Living Green: Sustainable Lifestyle,15/10/2021,15,4.3,86.84,Steampunk,Ana Silva,Portuguese
+61,The Mind-Body Connection,25/08/2021,35,4.4,29.72,Romance,Javier González,Spanish
+64,Stress Less: Anxiety Management,09/05/2021,20,4.8,42.67,Art,Sofia Ramirez,Colombian
+67,Astrobiology and the Search for Extraterrestrial Life,20/10/2022,25,4.3,52.55,Chick Lit,Diego Perez,Spanish
+69,Adventures in Zero Gravity,30/08/2022,40,4.4,9.81,Superhero,Luis Martinez,Mexican
+70,Stellar Phenomena: Mysteries of the Universe,05/07/2022,20,4.8,73.97,Urban Fantasy,Carmen Torres,Spanish
+72,Black Holes and Wormholes: Portals to the Unknown,15/05/2022,25,4.2,41.33,Humor,Elena Soto,Venezuelan
+74,Astronaut Diaries: Life in Space,25/03/2022,40,4.4,93.09,Crime,Lucia Morales,Spanish
+77,The Space Traveler's Guide: Interstellar Adventures,05/12/2021,20,4.8,108.49,Sports,Akihiko Tanaka,Japanese
+79,Alien Encounters: Close Encounters of the Third Kind,15/10/2021,25,4.3,113.01,Cooking,Seung-Ho Kim,South Korean
+81,The Milky Way: Our Cosmic Neighborhood,25/08/2021,40,4.4,79.66,Spirituality,Yusuf Erdogan,Turkish
+84,Voyagers: Pioneers of Space Exploration,09/05/2021,25,4.8,35.13,Travel,Ismail Al-Mansoori,Emirati
+87,Lost Traditions: Forgotten Rituals,20/10/2006,25,4.2,104.08,Science Fiction Fantasy,Genghis Bayar,Mongolian
+89,The Art of Tradition: Celebrations Worldwide,30/08/2007,40,4.4,17.58,Spirituality,Mei Watanabe,Japanese
+90,Customs and Beliefs: A Global Perspective,05/07/2005,20,4.8,72.03,Comics,Dong Hoang,Vietnamese
+92,Rituals and Ceremonies: Timeless Practices,15/05/2004,25,4.3,74.34,Adventure,Ivan Petrov,Bulgarian
+95,Cultural Customs: Uniting Communities,28/02/2008,30,4.8,105.24,Travel,Elena Popescu,Romanian
+97,Heritage Revival: Reconnecting with the Past,05/12/2007,20,4.4,95.42,Historical Fiction,Jana Kovac,Slovak
+97,Heritage Revival: Reconnecting with the Past,05/12/2007,20,4.4,95.42,Historical Fiction,Aisha Kamara,Sierra Leonean
+100,Traces of Tradition: Cultural Legacies,20/09/2006,35,4.8,57.42,Paranormal,Petr Novak,Czech
+104,Living the Legacy: Honoring Our Heritage,09/05/2009,25,4.4,90.81,Superhero,Miroslav Hrbek,Czech
+107,Ethics and Moral Dilemmas,20/11/1995,25,4.2,52.34,Cooking,Laima Ozoliņa,Latvian
+109,The Mind of Socrates,20/02/1999,40,4.4,62.32,Science,Inese Sīmane,Latvian
+110,The Art of Reasoning,05/09/2000,20,4.8,32.18,Historical Fiction,Mārtiņš Ķirsis,Latvian
+112,Existentialism and Freedom,15/05/1996,25,4.3,100.64,Comics,Valdis Salmiņš,Latvian
+115,The Nature of Consciousness,25/09/1994,30,4.8,69.2,Cooking,Silvija Riekstiņa,Latvian
+117,The Philosophy of Ethics,05/08/1998,20,4.4,32.54,Manga,Elena Rodriguez,Spanish
+120,Exploring Plato's Dialogues,20/10/1996,35,4.8,67.33,Psychology,Lorenzo Rossi,Italian
+124,The Legacy of Aristotle,09/09/1998,25,4.4,111.09,Drama,Andreas Wagner,German
+126,Democracy and Its Challenges,15/02/2022,30,4.2,69.35,Business,Kwame Osei,Ghanaian
+127,Global Diplomacy: A New Era,10/06/2021,25,4.1,37.4,Graphic Novel,Amina Ndiaye,Senegalese
+129,Election Strategies: Winning the Game,25/04/2020,40,4.3,84,Art,Lamine Diop,Senegalese
+130,The Power of Negotiation,05/08/2021,20,4.4,42.22,Classic,Naledi Mokoena,South African
+131,The Role of International Law,30/09/2020,30,4,108.71,Art,Sekou Toure,Guinean
+132,Challenges in Global Governance,15/07/2019,34,4.3,99.64,Drama,Aisha Kamara,Sierra Leonean
+134,Political Theory: Key Concepts,20/05/2019,25,4.2,94.44,Biography,Fatou Sow,Senegalese
+136,Understanding Political Systems,15/11/2020,35,4.1,52.37,Humor,Habiba Diallo,Malian
+137,The Future of Governance,28/09/2021,25,4.3,100.56,Humor,Kwesi Mensah,Ghanaian
+138,Global Conflict Resolution,10/04/2022,20,4,117.66,Superhero,Chidinma Eze,Nigerian
+139,The Art of Diplomacy,25/01/2019,40,4.4,112.71,Politics,Moussa Sissoko,Malian
+140,Policy Analysis: Decision-Making,20/07/2020,30,4.2,66.55,Science Fiction,Thabo Ndlovu,South African
+142,Media and Politics: An Examination,04/05/2019,35,4.3,78.06,Time Travel,Liam Smith,New Zealander
+143,Environmental Policy Challenges,15/10/2022,20,4.1,55.73,Urban Fantasy,Isabella Davies,Fijian
+145,Conflict Resolution Strategies,20/12/2020,30,4.2,41.35,Horror,Chloe Mitchell,Papua New Guinean
+146,The Enigma Files,15/11/2010,30,4.2,58.31,Art,William Brown,Solomon Islander
+147,Murder at Midnight,21/02/2012,40,4.4,29.04,Science Fiction,Naledi Mokoena,South African
+147,Murder at Midnight,21/02/2012,40,4.4,29.04,Science Fiction,Ella White,Samoa
+148,The Detective's Dilemma,02/04/2011,35,4.1,81.16,Environment,Lucas Wilson,Vanuatu
+149,Whodunit Mysteries,18/09/2009,45,4.3,28.43,Technology,Mia Johnson,Tahitian
+151,Secrets of Suspense,25/08/2008,30,4.2,66.32,Fantasy,Emily Lee,Micronesian
+152,Cryptic Clues,15/03/2011,25,4,52.02,Comics,Noah Clark,New Caledonian
+153,The Mysterious Mansion,27/11/2013,35,4.3,27.93,Paranormal,Zoe Turner,Ni-Vanuatu
+155,Case Closed,22/04/2012,30,4.2,47.56,Historical Fiction,Charlotte Taylor,Nauruan
+156,Twisted Tales,15/05/2008,35,4.1,33.55,Urban Fantasy,Erik Hansen,Danish
+157,In the Shadows,30/08/2010,45,4.4,71.44,Health,Maja Jansson,Swedish
+158,Dark Secrets,10/02/2011,40,4.3,96.07,Crime,Aksel Olsen,Norwegian
+159,The Unseen Threat,03/09/2009,30,4,17.34,Art,Sofia Bergman,Finnish
+161,Love in Paris,25/06/2018,30,4.2,59.08,Dystopian,Ingrid Sørensen,Danish
+162,Summer of Romance,10/08/2019,40,4.4,41.96,Science Fiction Romance,Oskar Eriksson,Swedish
+163,Affairs of the Heart,02/01/2020,35,4.1,100.46,Time Travel,Kirsten Andersen,Norwegian
+164,Whispers of Love,18/03/2018,45,4.3,115.58,Manga,Ville Jokinen,Finnish
+166,Heartwarming Moments,15/02/2019,28,4.2,32.44,Humor,Mia Haugen,Norwegian
+167,Tales of Passion,10/05/2020,25,4,42.77,Time Travel,Niklas Andersson,Swedish
+168,Rendezvous in Venice,27/08/2019,35,4.3,59.37,Fantasy,Helena Niemi,Finnish
+170,Love Letters,22/10/2020,30,4.2,118.26,Self-Help,Tove Hansen,Swedish
+171,Romantic Getaways,15/11/2018,35,4.1,16.78,Urban Fantasy,Luis Rodriguez,Argentina
+172,Unforgettable Moments,30/05/2017,45,4.4,36.34,Environment,Maria Lopez,Colombia
+173,Eternal Love,18/02/2019,40,4.3,62.35,Superhero,Carlos Garcia,Peru
+174,Love Beyond Words,01/08/2017,30,4,34.92,Art,Ana Martinez,Mexico
+175,Cherished Dreams,12/10/2016,25,4.2,10.88,Politics,Diego Fernandez,Chile
+176,Deadly Secrets,15/04/2021,30,4.2,76.92,Comics,Laura Torres,Ecuador
+177,The Silent Witness,21/09/2020,40,4.4,111.4,Chick Lit,Pedro Silva,Venezuela
+178,Web of Deceit,02/02/2022,35,4.1,29.99,Business,Isabel Gonzalez,Guatemala
+179,Unsolved Mysteries,18/07/2020,45,4.3,90.06,Health,Ricardo Ramirez,Honduras
+181,In the Shadows,25/04/2020,30,4.2,83.78,Travel,Javier Martinez,Costa Rica
+182,The Hunted,15/07/2019,25,4,26.65,Mystery,Paula Perez,Bolivia
+183,Dangerous Pursuits,27/03/2022,35,4.3,60.81,Environment,Daniel Rodriguez,Nicaragua
+185,Mystery Thrillers,17/04/2019,30,4.2,95.31,Horror,Fernando Mendez,Panama
+186,Twisted Plots,15/05/2020,35,4.1,26.37,Health,Lucia Diaz,Uruguay
+187,Deadly Investigations,10/03/2019,45,4.4,63.45,Sports,Ella White,Samoa
+187,Deadly Investigations,10/03/2019,45,4.4,63.45,Sports,Roberto Castro,Puerto Rico
+188,Criminal Minds,05/01/2020,40,4.3,54.1,Erotica,Silvia Ortega,Dominican Republic
+189,Killer Instinct,15/09/2018,30,4,36.36,Health,Andres Gomez,Cuba
+190,Suspenseful Moments,12/11/2021,25,4.2,25.4,Classic,Valeria Chavez,Belize
+193,The Ultimate BBQ Guide,20/06/2022,40,4.8,91.19,Chick Lit,Adriana Perez,Trinidad and Tobago
+195,Plant-Based Cooking Made Simple,10/03/2021,60,4.9,56.46,Travel,Monica Torres,Jamaica
+196,Baking Basics: A Step-By-Step Guide,25/01/2022,55,4.4,48.9,Health,Carlos Medina,Barbados
+199,Healthy Eating 101,05/09/2020,70,4.8,20.03,Thriller,Natalia Cruz,Saint Kitts and Nevis
+202,Classic French Cuisine,16/08/2020,60,4.9,67.43,Dystopian,Santiago Rosales,Bermuda
+203,"Mexican Fiesta: Tacos, Salsas, and More",30/03/2021,40,4.4,22.8,Sports,Gloria Jimenez,The Bahamas
+206,The Great American Pie Book,19/01/2021,25,4.8,34.18,Romance,Vicente Castro,Aruba
+210,Gluten-Free Cooking Explained,12/03/2020,60,4.8,47.96,Drama,Mateo Mendez,Saint Martin
+211,Quick and Tasty Stir-Fries,14/06/2021,30,4.9,57.12,Children's,Olivia Gomez,Anguilla
+215,Cruise Adventures in the Caribbean,05/07/2022,45,4.4,114.93,Self-Help,Laura Mendez,French Guiana
+218,Island Hopping in Southeast Asia,10/03/2022,50,4.8,50.07,Business,Sofia Soto,Aruba
+223,Exploring the Australian Outback,05/06/2022,20,4.8,71.97,Comics,Catarina Silva,Portuguese
+225,Cultural Wonders of India,18/03/2022,55,4.9,27.68,Thriller,Sofia Soto,Aruba
+230,Discovering Japan's Traditions,05/02/2021,30,4.8,113.8,Self-Help,Lucie Kovarova,Czech
+233,Lost in Time,15/02/2023,40,4.4,28.69,Humor,Roberto Castro,Puerto Rico
+236,Unbreakable Bonds,30/01/2023,35,4.8,100.5,Western,Jean-Pierre Dupont,French
+241,Beyond the Horizon,18/01/2023,55,4.9,62.22,Chick Lit,Chidinma Eze,Nigerian
+246,Dark Secrets,25/08/2022,30,4.8,22.79,Children's,Maja Jansson,Swedish
+248,Whispers in the Dark,12/02/2023,40,4.8,27.35,Business,Ana Silva,Portuguese
+252,When the Rain Falls,25/02/2023,45,4.9,51.14,Horror,Sara Andersson,Swedish
+256,Chasing Dreams,30/12/2022,55,4.8,10.73,Adventure,John Smith,American
+260,The Scarlet Letter,18/08/2022,30,4.8,81.45,Religion,Sara Fernández,Spanish
+266,Eternal Shadows,08/11/2022,35,4.8,100.68,Young Adult,Kirsten Andersen,Norwegian
+275,The Enchanted Lake,15/02/2023,35,4.8,68.66,Western,Maria Ivanova,Russian
+280,The Lost Paradise,12/10/2022,20,4.8,54.36,Science Fiction,Kwesi Mensah,Ghanaian
+288,Clockwork Chronicles,18/01/2023,30,4.8,57.41,Erotica,Sophie Lefebvre,French
+293,Aether Alchemy,18/12/2022,55,4.8,63.03,Politics,Oskar Eriksson,Swedish
+293,Aether Alchemy,18/12/2022,55,4.8,63.03,Politics,Sofia Bergman,Finnish
+300,Gears of Glory,28/01/2023,35,4.8,89.24,Young Adult,Sofia Morales,El Salvador
+312,Golfing Greats,18/01/2023,30,4.8,65.29,Biography,Pedro Silva,Venezuela
+319,The Tennis Titan,10/01/2023,40,4.8,87.54,Paranormal,Mei Watanabe,Japanese
+319,The Tennis Titan,10/01/2023,40,4.8,87.54,Paranormal,Andris Bērziņš,Latvian
+329,Fitness Fundamentals,20/02/2023,25,4.8,47.61,Chick Lit,Katerina Dimitrova,Bulgarian
+336,Surfing Secrets,15/02/2023,45,4.8,83.14,Technology,Anders Petersen,Swedish
+337,The Entrepreneur's Guide,05/03/2023,60,4.8,52.2,Humor,Miguel Fernandez,Guyana
+343,Economic Empowerment,22/03/2023,60,4.8,110.31,Graphic Novel,Oliver Wilson,British
+349,Digital Marketing Domination,12/02/2023,60,4.8,86.74,Drama,Silvija Riekstiņa,Latvian
+355,Leadership Principles,05/03/2023,60,4.8,85.49,Graphic Novel,Lucas Santos,Brazilian
+361,Leadership in a Digital Age,18/03/2023,60,4.8,92.28,Comics,Natalia Cruz,Saint Kitts and Nevis
+367,Digital Marketing Strategies,01/02/2023,60,4.8,9.41,Steampunk,Giovanni Bianchi,Italian
+373,Leadership in Today's World,18/03/2023,60,4.8,34.2,Time Travel,Anton Nowak,Polish
+379,The Lean Startup Guide,22/02/2023,60,4.8,108.98,Politics,Hiroshi Tanaka,Japanese
+385,Sustainable Business Practices,08/03/2023,60,4.8,100.01,Drama,Oliver Turner,Tongan
+391,Digital Marketing Strategies for Success,05/02/2023,60,4.8,89.96,Psychology,Sophie Lefebvre,French
+394,The Holy Bible,05/03/2023,60,3.9,115.65,Manga,Giovanni Bianchi,Italian
+395,The Quran,01/02/2023,70,3.8,48.52,Mystery,Helena Niemi,Finnish
+396,The Bhagavad Gita,18/02/2023,55,3.7,31.82,Horror,Lucas Müller,German
+397,The Torah,10/03/2023,50,3.6,29.61,Time Travel,Adriana Perez,Trinidad and Tobago
+398,The Book of Mormon,15/02/2023,40,3.5,108.99,Fantasy,Maria García,Spanish
+399,The Tripitaka,15/03/2023,45,3.4,86.39,Classic,Elena Soto,Venezuelan
+400,The Guru Granth Sahib,22/03/2023,60,3.3,60.54,Health,Marie Dupont,French
+401,The Tao Te Ching,10/02/2023,70,3.2,13.5,Dystopian,Helena Niemi,Finnish
+402,The Book of Shadows,18/03/2023,55,3.1,103.96,Technology,Isabel Martinez,Spanish
+403,The Book of Enoch,28/03/2023,50,4,111.19,Travel,Mette Nielsen,Danish
+404,The Book of the Dead,28/02/2023,40,4,11.06,Religion,Andreas Wagner,German
+405,The Tibetan Book of the Dead,25/03/2023,45,3.9,76.29,Sports,Jing Li,Chinese
+406,The Gospel of Mary,12/02/2023,60,3.8,97.63,Children's,Oliver Wilson,British
+407,The Gospel of Judas,02/03/2023,70,3.7,99.74,Fantasy,Maria García,Spanish
+408,The Upanishads,12/03/2023,55,3.6,59.08,Western,Nadia Zaman,Bangladeshi
+409,The Talmud,08/03/2023,50,3.5,17.16,Fantasy,Yuki Nakamura,Japanese
+410,The I Ching,22/02/2023,40,3.4,17.24,Fantasy,Ville Jokinen,Finnish
+411,The Vedas,20/03/2023,45,3.3,109.01,Adventure,Emily Lee,Micronesian
+412,The Apocrypha,05/03/2023,60,3.2,111.65,Science,Olga Ivanova,Ukrainian
+413,The Gnostic Gospels,05/02/2023,70,3.1,99.77,Spirituality,Akihiko Tanaka,Japanese
+414,The Zohar,10/03/2023,55,3,26.44,Adventure,Moussa Sissoko,Malian
+415,The Tao of Pooh,25/02/2023,50,3.9,78.45,Religion,Silvija Riekstiņa,Latvian
+415,The Tao of Pooh,25/02/2023,50,3.9,78.45,Religion,Johan Mikkelsen,Danish
+416,The Book of Kells,15/03/2023,40,3.8,118.98,Graphic Novel,Lucie Kovarova,Czech
+417,The Book of Awakening,18/02/2023,45,3.7,15.98,Horror,Natalia Cruz,Saint Kitts and Nevis
+418,The Yoga Sutras,25/03/2023,60,3.6,63.55,Science Fiction,Laura Mendez,French Guiana
+419,The Heart of Christianity,15/02/2023,70,3.5,43.38,Crime,Lucia Diaz,Uruguay
+420,The Essential Rumi,22/03/2023,55,3.4,115.37,Science Fiction Romance,Anastasia Papadopoulos,Greek
+421,The Varieties of Religious Experience,10/02/2023,50,3.3,7.01,Adventure,Chidinma Eze,Nigerian
+422,The Kingdom of God Is Within You,18/03/2023,40,3.2,102.34,Children's,Isabella Rossi,Italian
+423,A Course in Miracles,05/03/2023,45,3.1,116.93,Science Fiction Fantasy,Kazuki Tanaka,Japanese
+424,The End of Your World,01/02/2023,60,3,42.53,Science,Olga Ivanova,Ukrainian
+425,Silent Spring,01/03/2023,60,4,38.45,Politics,Antonia Rivera,Curacao
+426,The Sixth Extinction,02/03/2023,70,3.9,63.38,Psychology,Pablo Diaz,Chilean
+427,Desert Solitaire,03/03/2023,55,3.8,35.77,Science Fiction Romance,Andres Sanchez,Peruvian
+428,A Sand County Almanac,04/03/2023,50,3.7,35.3,Music,Tove Hansen,Swedish
+429,The Lorax,05/03/2023,40,3.6,79,Science Fiction Romance,Rafael Gomez,Antigua and Barbuda
+430,The Nature Principle,06/03/2023,45,3.5,23,Romance,Lise Andersen,Danish
+431,Cadillac Desert,07/03/2023,60,3.4,61.18,Reference,Javier González,Spanish
+432,The Water Will Come,08/03/2023,70,3.3,98.26,Environment,Hiroshi Tanaka,Japanese
+433,An Inconvenient Truth,09/03/2023,55,3.2,39.48,Crime,Sofia Soto,Aruba
+434,Walden,10/03/2023,50,3.1,17.34,Time Travel,Jack Harris,Palauan
+435,The End of Nature,11/03/2023,60,4,18.22,Horror,Amina Ndiaye,Senegalese
+436,The Uninhabitable Earth,12/03/2023,70,4,97.64,Technology,Vicente Castro,Aruba
+437,The Overstory,13/03/2023,55,3.9,19.11,Graphic Novel,Antonio Suarez,Saint Lucia
+438,Collapse,14/03/2023,50,3.8,72.62,Psychology,Helena Niemi,Finnish
+439,The Ecology of Commerce,15/03/2023,40,3.7,14.55,Art,Mia Johnson,Tahitian
+440,This Changes Everything,16/03/2023,45,3.6,41.84,Time Travel,Habiba Diallo,Malian
+441,The Weather Makers,17/03/2023,60,3.5,18.42,Poetry,Elena Pena,Saint Vincent and the Grenadines
+442,The Worst Hard Time,18/03/2023,70,3.4,74.14,Science Fiction,William Brown,Solomon Islander
+443,Pilgrim at Tinker Creek,19/03/2023,55,3.3,79.61,Poetry,Anna Nowak,Polish
+444,A Sand County Almanac,20/03/2023,50,3.2,27.27,Adventure,Charlotte Taylor,Nauruan
+445,The Lorax,21/03/2023,40,3.1,27.91,Drama,Mohammed Abubakar,Nigerian
+446,Silent Spring,22/03/2023,45,3,99.76,Science,Miguel Rodríguez,Mexican
+447,The Nature Principle,23/03/2023,60,3.9,31.61,Travel,Matthias Müller,German
+448,Cadillac Desert,24/03/2023,70,3.8,52.95,Travel,Laura Torres,Ecuador
+449,The Water Will Come,25/03/2023,55,3.7,89.99,Humor,Amit Patel,Indian
+450,An Inconvenient Truth,26/03/2023,50,3.6,86.21,Humor,Mateo Mendez,Saint Martin
+451,Walden,27/03/2023,40,3.5,54.31,Superhero,Miguel Ruiz,Mexican
+452,The End of Nature,28/03/2023,45,3.4,29.31,Cooking,Nina Petrova,Bulgarian
+453,The Uninhabitable Earth,29/03/2023,60,3.3,43.69,Chick Lit,Sofia Morales,El Salvador
+454,The Overstory,30/03/2023,70,3.2,59.2,Science,Niklas Andersson,Swedish
+455,Collapse,31/03/2023,55,3.1,114.25,Dystopian,Sofia Soto,Aruba
+456,The Ecology of Commerce,01/04/2023,50,3,54.63,Cooking,Leonardo Perez,Montserrat
+457,This Changes Everything,02/04/2023,40,3.9,60.91,Paranormal,Andres Gomez,Cuba
+458,The Weather Makers,03/04/2023,45,3.8,25.83,Humor,Natasha Patel,Indian
+459,The Worst Hard Time,04/04/2023,60,3.7,43.34,Adventure,Luis Martinez,Mexican
+460,Pilgrim at Tinker Creek,05/04/2023,70,3.6,109.99,Steampunk,Olivia Gomez,Anguilla
+461,The Secret Garden,06/04/2023,55,3.5,93.59,Erotica,Akihiko Tanaka,Japanese
+462,The Ocean at the End of the Lane,07/04/2023,50,3.4,101.55,Young Adult,Lucia Diaz,Uruguay
+463,The Name of the Wind,08/04/2023,40,3.3,58.84,Sports,Elena Popescu,Romanian
+464,The Wise Man's Fear,09/04/2023,45,3.2,21.12,Music,Ville Jokinen,Finnish
+465,The Slow Regard of Silent Things,10/04/2023,60,3.1,69.31,Western,Hui Li,Chinese
+466,City of Stairs,11/04/2023,70,3,27.17,Mystery,Katerina Dimitrova,Bulgarian
+467,City of Blades,12/04/2023,55,3.9,83.13,Superhero,Jing Li,Chinese
+468,City of Miracles,13/04/2023,50,3.8,104.92,Fantasy,Kwame Osei,Ghanaian
+468,City of Miracles,13/04/2023,50,3.8,104.92,Fantasy,Ahmed Hussein,Egyptian
+469,Elantris,14/04/2023,40,3.7,118.36,Self-Help,Oliver Turner,Tongan
+469,Elantris,14/04/2023,40,3.7,118.36,Self-Help,Antonio Suarez,Saint Lucia
+470,Mistborn: The Final Empire,15/04/2023,45,3.6,43.92,Science Fiction Fantasy,Chinwe Okoro,Nigerian
+471,Mistborn: The Well of Ascension,16/04/2023,60,3.5,94.81,Young Adult,Carlos López,Mexican
+472,Mistborn: The Hero of Ages,17/04/2023,70,3.4,63.58,Poetry,Kirsten Andersen,Norwegian
+473,The Way of Kings,18/04/2023,55,3.3,86.69,Sports,Liam Smith,New Zealander
+474,Words of Radiance,19/04/2023,50,3.2,87.39,Superhero,Habiba Diallo,Malian
+475,Oathbringer,20/04/2023,40,3.1,116.18,Philosophy,Lucia Diaz,Uruguay
+476,Edgedancer,21/04/2023,45,3,56.71,Music,Genghis Bayar,Mongolian
+477,Whispers of the Heart,22/04/2023,50,2,48.91,Cooking,Yan Wei,Chinese
+478,Eternal Echoes,23/04/2023,45,2.1,12.41,Travel,Thomas Fischer,German
+479,Soulful Verses,24/04/2023,60,2.2,89.49,Self-Help,Silvia Ortega,Dominican Republic
+480,Midnight Sonnets,25/04/2023,70,2.3,55.63,Time Travel,Chen Wei,Chinese
+481,Dance of Words,26/04/2023,55,2.4,92.21,Drama,Elena Rodriguez,Spanish
+482,Whispers in the Breeze,27/04/2023,65,2.5,118.15,Comics,Lucas Wilson,Vanuatu
+483,Ink and Dreams,28/04/2023,45,2.6,86.71,Historical Fiction,Chidinma Eze,Nigerian
+484,Verses of the Heart,29/04/2023,40,2.7,27.26,Classic,Liam Smith,New Zealander
+485,Ethereal Poems,30/04/2023,50,2.8,34.42,Chick Lit,Matthias Müller,German
+486,Starry Serenades,01/05/2023,55,2.9,23.58,Art,Carlos Medina,Barbados
+487,Golden Sonnets,02/05/2023,60,3,69.95,Western,Antonia Rivera,Curacao
+487,Golden Sonnets,02/05/2023,60,3,69.95,Western,Silvija Riekstiņa,Latvian
+488,Aurora Rhymes,03/05/2023,70,3.1,12.99,Thriller,Ahmed Hussein,Egyptian
+489,Lyrical Reflections,04/05/2023,45,3.2,119.02,Biography,Elena Popescu,Romanian
+490,Whispers of Dreams,05/05/2023,60,3.3,47.86,Science Fiction Romance,Andres Martinez,Mexican
+491,Solitude Sonnets,06/05/2023,70,3.4,52.96,Thriller,Seung-Ho Kim,South Korean
+492,Stardust Verses,07/05/2023,55,3.5,37.11,Psychology,Petr Novak,Czech
+493,Echoes in the Night,08/05/2023,45,3.6,109.94,Drama,Julia Fernandez,Guyane
+494,Inkwell Melodies,09/05/2023,50,3.7,106.76,Sports,Lucia Diaz,Uruguay
+495,Celestial Rhymes,10/05/2023,40,3.8,24.38,Health,Marta López,Mexican
+496,Whispers of the Soul,11/05/2023,60,3.9,90.18,Time Travel,Lucie Kovarova,Czech
+497,Midnight Musings,12/05/2023,70,4,90.8,Comics,Erik Hansen,Danish
+498,Whispering Poesy,13/05/2023,55,4,117.03,Biography,Rajesh Kapoor,Indian
+499,Eternal Echoes Pt. II,14/05/2023,45,3.9,93.45,Business,Natalia Cruz,Saint Kitts and Nevis
+499,Eternal Echoes Pt. II,14/05/2023,45,3.9,93.45,Business,Laura Torres,Ecuador
+500,Stars and Stanzas,15/05/2023,49,3.8,82.53,Paranormal,Elena Pena,Saint Vincent and the Grenadines
+501,Serene Sonnets,16/05/2023,40,3.7,110.78,Poetry,Anna Nowak,Polish
+503,The Magical Kingdom,02/06/2023,70,4.4,69.55,Time Travel,Sophie Anderson,Australian
+504,Mystery in Candyland,03/06/2023,60,4.3,90.61,Psychology,Ahmed Hussein,Egyptian
+505,The Brave Little Knight,04/06/2023,75,4.2,105.82,Humor,Johan Mikkelsen,Danish
+506,Alice in Whimsyland,05/06/2023,85,4.1,33.38,Cooking,Miguel Rodriguez,Mexican
+507,The Enchanted Forest,06/06/2023,55,4,100.17,Philosophy,Andris Bērziņš,Latvian
+508,Adventures of Captain Sunshine,07/06/2023,90,4,31.86,Spirituality,Miroslav Hrbek,Czech
+509,Charlie and the Color Factory,08/06/2023,50,3.9,74.22,Business,Fatou Sow,Senegalese
+510,Dinosaur Detective,09/06/2023,65,3.8,91.61,Politics,Oliver Wilson,British
+511,Winnie the Wizard,10/06/2023,55,3.7,61.16,Humor,Matthias Müller,German
+512,Pirate Pete and His Parrot,11/06/2023,75,3.6,21.51,Poetry,Miguel Fernandez,Guyana
+513,The Magic Paintbrush,12/06/2023,60,3.5,53.2,Music,Eleni Papadopoulos,Greek
+514,The Adventures of Dolly and Bobby,13/06/2023,70,3.4,61.28,Humor,Raul Martinez,Mexican
+515,The Little Train That Could,14/06/2023,45,3.3,92.85,Reference,Jānis Pētersons,Latvian
+516,Jungle Safari with Timmy,15/06/2023,80,3.2,111.08,Cooking,Lamine Diop,Senegalese
+517,Little Red Riding Hood Reimagined,16/06/2023,65,3.1,103.21,Erotica,Līga Kalniņa,Latvian
+518,The Space Adventures of Ziggy,17/06/2023,70,3,21,Graphic Novel,Luisa Rodrigues,Portuguese
+519,The Daring Adventures of Lucy,18/06/2023,55,3,25.72,Technology,Miguel Rodríguez,Mexican
+520,The Mystery of the Missing Cookie,19/06/2023,50,3,75.41,Chick Lit,Luisa Vargas,Suriname
+521,Unicorn Dreams,20/06/2023,60,2,15.09,Science,Sekou Toure,Guinean
+522,Lilly of the Valley,01/12/2021,45,,12.5,Historical Fiction,Zane Bērziņa,Latvian
+523,One nightstand,13/02/2023,60,,23.6,Poetry,Yuki Nakamura,Japanese
+523,One nightstand,13/02/2023,60,,23.6,Poetry,Isabella Davies,Fijian
+527,The second hope,16/03/2021,9,4,23.7,Time Travel,Remedios Vegas,Argentinian
